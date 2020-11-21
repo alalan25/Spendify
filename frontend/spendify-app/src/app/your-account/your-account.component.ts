@@ -1,4 +1,5 @@
 import { Component, OnInit } from '@angular/core';
+import { BankingService } from '../banking.service';
 
 @Component({
   selector: 'app-your-account',
@@ -6,10 +7,22 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./your-account.component.css']
 })
 export class YourAccountComponent implements OnInit {
+  hello: Object;
 
-  constructor() { }
+  constructor(private bankingService: BankingService) {
+    this.getHello();
+   }
+
+
 
   ngOnInit(): void {
+
   }
 
+  getHello(){
+    return this.bankingService.getHelloWorld()
+    .subscribe(result=>{
+      this.hello = result;
+    })
+  }
 }
