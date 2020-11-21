@@ -21,4 +21,8 @@ export class BankingService {
     console.log("Service method called on", baseUrl+"/p")
     return this.http.get(baseUrl+"/api/transactions/?id="+inputId);
   }
+
+  getAccountSummary(){
+    return this.http.get(baseUrl+"/api/account/summary/")
+  }
 }

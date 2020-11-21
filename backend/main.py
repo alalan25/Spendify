@@ -40,6 +40,51 @@ def api_id():
  
     return jsonify(results)
 
+
+
+@app.route('/api/account/summary/', methods=['GET'])
+def get_summary():
+    
+    results = [{"title": "Total Savings",
+                "icon": "refresh",
+                "value": 567,
+                "color": "violet",
+                 "isIncrease": False,
+                 "isCurrency": True,
+                 "duration": "Since Last Month",
+                 "percentValue": 0.5},
+
+                {"title": "Money Spent",
+                "icon": "attach_money",
+                "value": 503,
+                "color": "violet",
+                 "isIncrease": True,
+                 "isCurrency": True,
+                 "duration": "Since Last Month",
+                 "percentValue": 0.1},
+
+                {"title": "Total Savings",
+                "icon": "show_chart",
+                "value": 224,
+                "color": "violet",
+                 "isIncrease": False,
+                 "isCurrency": True,
+                 "duration": "Since Last Month",
+                 "percentValue": 0.1},
+
+                {"title": "Average Money Spent",
+                "icon": "star_border",
+                "value": 2,
+                "color": "violet",
+                 "isIncrease": False,
+                 "isCurrency": True,
+                 "duration": "Since Last Month",
+                 "percentValue": 0.25}]
+
+ 
+    return jsonify(results)
+
+
 api.add_resource(HelloWorld, "/p")
 
 if __name__ == "__main__":
