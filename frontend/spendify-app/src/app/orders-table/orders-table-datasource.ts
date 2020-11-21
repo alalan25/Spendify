@@ -46,7 +46,7 @@ export class OrdersTableDataSource extends DataSource<OrdersTableItem> {
   sort: MatSort;
 
   constructor() {
-    
+
     super();
   }
 
