@@ -11,13 +11,13 @@ import {BankingService} from '../banking.service'
 })
 export class DashComponent implements OnInit {
 
-  miniCardData: any[];
+  miniCardData=  <any>[];
   ngOnInit() {
     this.bankingService.getAccountSummary().subscribe(
      summaryData => {
        console.log(summaryData, "was the response")
         this.miniCardData = summaryData
-        console.log(this.miniCardData.length)
+
       }
     );
   }

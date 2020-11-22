@@ -25,4 +25,9 @@ export class BankingService {
   getAccountSummary(){
     return this.http.get(baseUrl+"/api/account/summary/")
   }
+  getMonthlyTransactions(){
+    return this.http.get(baseUrl+"/api/account/year/")
+  }
+
+
 }
