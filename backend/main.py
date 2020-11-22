@@ -62,7 +62,7 @@ def summary():
 
                 {"title": "Money Spent",
                 "icon": "attach_money",
-                "value": 503,
+                "value": 5833,
                 "color": "violet",
                  "isIncrease": True,
                  "isCurrency": True,
@@ -71,7 +71,7 @@ def summary():
 
                 {"title": "Total Savings",
                 "icon": "show_chart",
-                "value": 224,
+                "value": 437,
                 "color": "violet",
                  "isIncrease": False,
                  "isCurrency": True,
@@ -80,7 +80,7 @@ def summary():
 
                 {"title": "Average Money Spent",
                 "icon": "star_border",
-                "value": 2,
+                "value": 621,
                 "color": "violet",
                  "isIncrease": False,
                  "isCurrency": True,
