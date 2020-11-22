@@ -1,14 +1,59 @@
 from flask import Flask, request, jsonify
 from flask_restful import Api, Resource
 from flask_cors import CORS
+import pymongo
+import os
+import json
+from bson import json_util, ObjectId
+
+myclient = pymongo.MongoClient(os.getenv("MONGOURL"))
+mydb = myclient["mydatabase"]
+mycol = mydb["users"]
 
 app = Flask(__name__)
 api = Api(app)
 CORS(app)
+
+# schema = {
+#     _id: "",
+#     name: "",
+#     spending: {
+#         total:"",
+#         food:"",
+#         health:"",
+#         personalCare:"",
+#         entertainment:"",
+#         cablePhone:"",
+#         rideshare:""
+#     },
+#     crediAssesment: "",
+#     category: {
+#         essential:"",
+#         nonEssential:""
+#     },
+#     pet: {
+#         name: "",
+#         happy: "",
+#         sad: "",
+#         size:""
+#         }
+#     }
+
+
+
+
 class HelloWorld(Resource):
     def get(self):
-        return {"data" : "Hello World"}
+        mydict = { "name": "BEN", "address": "131313" }
+        #mycol.insert_one(mydict)
+        results = []
+        for doc in mycol.find():
+            print(doc)
+            results.append(doc)
+        return json.loads(json.dumps(results, default=str))
 
+
+api.add_resource(HelloWorld, "/hello")
 
 
 @app.route('/api/transactions/', methods=['GET'])
@@ -85,7 +130,7 @@ def get_summary():
     return jsonify(results)
 
 
-api.add_resource(HelloWorld, "/p")
+
 
 if __name__ == "__main__":
     app.run(debug=True)
