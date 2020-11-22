@@ -4,7 +4,7 @@
     <!--Mini Cards-->
     <mat-grid-tile *ngFor="let mc of miniCardData" [colspan]="( cardLayout | async )?.miniCard.cols"
      [rowspan]="( cardLayout | async )?.miniCard.rows">
-
+     asd
      <app-mini-card [icon]="mc.icon" [title]="mc.title" [value]="mc.value" [color]="mc.color" [isIncrease]="mc.isIncrease" duration="since last month" [percentValue]="mc.percentValue" [isCurrency]="mc. isCurrency"></app-mini-card>
    </mat-grid-tile>
     <!--Charts-->
@@ -12,22 +12,22 @@
     <mat-grid-tile
     [colspan]="( cardLayout | async )?.chart.cols" [rowspan]="( cardLayout | async )?.chart.rows">
       <app-card title="Monthly Spending">
-          <app-annual-sales-chart [dashId] = "1"></app-annual-sales-chart>
+          <app-annual-sales-chart [dashId] = "3"></app-annual-sales-chart>
       </app-card>
    </mat-grid-tile>
    <mat-grid-tile [colspan]="( cardLayout | async )?.chart.cols" [rowspan]="( cardLayout | async )?.chart.rows">
       <app-card title="Spending Categories">
-          <app-product-sales-chart [dashId] = "1"></app-product-sales-chart>
+          <app-product-sales-chart [dashId] = "3"></app-product-sales-chart>
       </app-card>
    </mat-grid-tile>
    <mat-grid-tile [colspan]="( cardLayout | async )?.chart.cols" [rowspan]="( cardLayout | async )?.chart.rows">
-      <app-card title="Spending Outlook - Entertainment">
-          <app-sales-traffic-chart [dashId] = "1"></app-sales-traffic-chart>
+      <app-card title="Spending Outlook - Hotels">
+          <app-sales-traffic-chart [dashId] = "3"></app-sales-traffic-chart>
       </app-card>
    </mat-grid-tile>
    <mat-grid-tile [colspan]="( cardLayout | async )?.chart.cols" [rowspan]="( cardLayout | async )?.chart.rows">
       <app-card title="Spending Habit Outlook - Upcoming Months">
-          <app-store-sessions-chart [dashId] = "1"></app-store-sessions-chart>
+          <app-store-sessions-chart [dashId] = "3"></app-store-sessions-chart>
       </app-card>
    </mat-grid-tile>
 

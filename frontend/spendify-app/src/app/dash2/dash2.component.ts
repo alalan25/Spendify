@@ -5,15 +5,15 @@ import {BankingService} from '../banking.service'
 
 
 @Component({
-  selector: 'app-dash',
-  templateUrl: './dash.component.html',
-  styleUrls: ['./dash.component.css']
+  selector: 'app-dash2',
+  templateUrl: './dash2.component.html',
+  styleUrls: ['./dash2.component.css']
 })
-export class DashComponent implements OnInit {
+export class Dash2Component implements OnInit {
 
   miniCardData=  <any>[];
   ngOnInit() {
-    this.bankingService.getAccountSummary("1").subscribe(
+    this.bankingService.getAccountSummary("2").subscribe(
      summaryData => {
        console.log(summaryData, "was the response")
         this.miniCardData = summaryData

@@ -1,0 +1,6232 @@
+[
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 5000,
+    "transactionDateTime": "2016-01-02T05:35:07",
+    "transactionAmount": 0,
+    "merchantName": "Taco Bell #311677",
+    "merchantCategoryCode": "fastfood",
+    "currentBalance": 0
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 5000,
+    "transactionDateTime": "2016-01-03T00:53:56",
+    "transactionAmount": 36.45,
+    "merchantName": "AMC #191138",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 0
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 4963.55,
+    "transactionDateTime": "2016-01-03T04:20:12",
+    "transactionAmount": 134.52,
+    "merchantName": "EZ Putt Putt #551896",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 36.45
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 4829.03,
+    "transactionDateTime": "2016-01-03T11:34:22",
+    "transactionAmount": 180.52,
+    "merchantName": "AMC #692956",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 170.97
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 4648.51,
+    "transactionDateTime": "2016-01-05T18:48:00",
+    "transactionAmount": 379.48,
+    "merchantName": "Regal Cinemas #05791",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 351.49
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 4269.03,
+    "transactionDateTime": "2016-01-07T08:13:12",
+    "transactionAmount": 97.87,
+    "merchantName": "AMC #552863",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 730.97
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 4171.16,
+    "transactionDateTime": "2016-01-09T05:25:36",
+    "transactionAmount": 264.81,
+    "merchantName": "Regal Cinemas #729464",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 828.84
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 3906.35,
+    "transactionDateTime": "2016-01-09T10:44:25",
+    "transactionAmount": 106.34,
+    "merchantName": "EZ Putt Putt #240241",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 1093.65
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 3800.01,
+    "transactionDateTime": "2016-01-10T16:45:41",
+    "transactionAmount": 245.62,
+    "merchantName": "EZ Putt Putt #240241",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 1199.99
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 3554.39,
+    "transactionDateTime": "2016-01-10T17:38:22",
+    "transactionAmount": 424.48,
+    "merchantName": "EZ Putt Putt #503815",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 1445.61
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 3129.91,
+    "transactionDateTime": "2016-01-11T01:02:10",
+    "transactionAmount": 80.21,
+    "merchantName": "AMC #606218",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 1870.09
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 3049.7,
+    "transactionDateTime": "2016-01-12T10:50:27",
+    "transactionAmount": 241.39,
+    "merchantName": "EZ Putt Putt #755869",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 1950.3
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 2808.31,
+    "transactionDateTime": "2016-01-13T07:01:17",
+    "transactionAmount": 151.4,
+    "merchantName": "AMC #692956",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 2191.69
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 2656.91,
+    "transactionDateTime": "2016-01-13T08:32:18",
+    "transactionAmount": 209.28,
+    "merchantName": "Regal Cinemas #729464",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 2343.09
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 2447.63,
+    "transactionDateTime": "2016-01-13T09:42:07",
+    "transactionAmount": 83.18,
+    "merchantName": "EZ Putt Putt #503815",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 2552.37
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 2364.45,
+    "transactionDateTime": "2016-01-13T17:03:06",
+    "transactionAmount": 26,
+    "merchantName": "AMC #724446",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 2635.55
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 2338.45,
+    "transactionDateTime": "2016-01-14T01:58:57",
+    "transactionAmount": 72.51,
+    "merchantName": "Regal Cinemas #05791",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 2661.55
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 2265.94,
+    "transactionDateTime": "2016-01-15T01:54:33",
+    "transactionAmount": 140.47,
+    "merchantName": "EZ Putt Putt #503815",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 2734.06
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 2125.47,
+    "transactionDateTime": "2016-01-15T08:50:58",
+    "transactionAmount": 97.88,
+    "merchantName": "AMC #74121",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 2874.53
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 2027.59,
+    "transactionDateTime": "2016-01-17T21:36:57",
+    "transactionAmount": 9.17,
+    "merchantName": "EZ Putt Putt #503815",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 2972.41
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 2018.42,
+    "transactionDateTime": "2016-01-18T07:05:06",
+    "transactionAmount": 1.88,
+    "merchantName": "AMC #145832",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 2981.58
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 2016.54,
+    "transactionDateTime": "2016-01-18T08:24:45",
+    "transactionAmount": 339.56,
+    "merchantName": "Domino's Pizza #490157",
+    "merchantCategoryCode": "fastfood",
+    "currentBalance": 2983.46
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 1676.98,
+    "transactionDateTime": "2016-01-18T14:46:46",
+    "transactionAmount": 41.41,
+    "merchantName": "EZ Putt Putt #503815",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 3323.02
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 1635.57,
+    "transactionDateTime": "2016-01-18T22:53:59",
+    "transactionAmount": 95.65,
+    "merchantName": "AMC #552863",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 3364.43
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 1539.92,
+    "transactionDateTime": "2016-01-19T01:42:22",
+    "transactionAmount": 9.7,
+    "merchantName": "AMC #191138",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 3460.08
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 1530.22,
+    "transactionDateTime": "2016-01-19T07:12:53",
+    "transactionAmount": 10.06,
+    "merchantName": "AMC #692956",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 3469.78
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 1520.16,
+    "transactionDateTime": "2016-01-19T18:35:34",
+    "transactionAmount": 106.15,
+    "merchantName": "Regal Cinemas #276341",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 3479.84
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 1414.01,
+    "transactionDateTime": "2016-01-20T20:33:49",
+    "transactionAmount": 567.94,
+    "merchantName": "AMC #606218",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 3585.99
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 846.07,
+    "transactionDateTime": "2016-01-21T05:59:51",
+    "transactionAmount": 183.66,
+    "merchantName": "AMC #79863",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 4153.93
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 662.41,
+    "transactionDateTime": "2016-01-23T05:15:51",
+    "transactionAmount": 79.49,
+    "merchantName": "Popeyes #295098",
+    "merchantCategoryCode": "fastfood",
+    "currentBalance": 4337.59
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 582.92,
+    "transactionDateTime": "2016-01-23T07:57:41",
+    "transactionAmount": 0,
+    "merchantName": "EZ Putt Putt #982199",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 4417.08
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 582.92,
+    "transactionDateTime": "2016-01-23T10:09:04",
+    "transactionAmount": 27.89,
+    "merchantName": "AMC #706324",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 4417.08
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 555.03,
+    "transactionDateTime": "2016-01-23T14:34:52",
+    "transactionAmount": 336.51,
+    "merchantName": "AMC #706324",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 4444.97
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 2116.35,
+    "transactionDateTime": "2016-01-26T11:23:37",
+    "transactionAmount": 20.3,
+    "merchantName": "AMC #552863",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 2883.65
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 2096.05,
+    "transactionDateTime": "2016-01-26T15:38:55",
+    "transactionAmount": 0,
+    "merchantName": "EZ Putt Putt #503815",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 2903.95
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 2096.05,
+    "transactionDateTime": "2016-01-27T01:34:56",
+    "transactionAmount": 78.72,
+    "merchantName": "AMC #191138",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 2903.95
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 2017.33,
+    "transactionDateTime": "2016-01-27T16:02:20",
+    "transactionAmount": 81.45,
+    "merchantName": "Burger King #58323",
+    "merchantCategoryCode": "fastfood",
+    "currentBalance": 2982.67
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 1935.88,
+    "transactionDateTime": "2016-01-27T20:09:22",
+    "transactionAmount": 27.73,
+    "merchantName": "AMC #706324",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 3064.12
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 1908.15,
+    "transactionDateTime": "2016-01-27T20:24:22",
+    "transactionAmount": 268.17,
+    "merchantName": "Dunkin' Donuts #921434",
+    "merchantCategoryCode": "fastfood",
+    "currentBalance": 3091.85
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 1639.98,
+    "transactionDateTime": "2016-01-27T22:20:52",
+    "transactionAmount": 345.47,
+    "merchantName": "Five Guys #60282",
+    "merchantCategoryCode": "fastfood",
+    "currentBalance": 3360.02
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 1294.51,
+    "transactionDateTime": "2016-01-28T22:50:46",
+    "transactionAmount": 328.49,
+    "merchantName": "AMC #552863",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 3705.49
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 966.02,
+    "transactionDateTime": "2016-01-29T07:34:02",
+    "transactionAmount": 4.61,
+    "merchantName": "AMC #606218",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 4033.98
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 961.41,
+    "transactionDateTime": "2016-01-29T14:20:37",
+    "transactionAmount": 284.5,
+    "merchantName": "EZ Putt Putt #503815",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 4038.59
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 676.91,
+    "transactionDateTime": "2016-01-30T01:43:54",
+    "transactionAmount": 15.9,
+    "merchantName": "AMC #79863",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 4323.09
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 661.01,
+    "transactionDateTime": "2016-01-30T12:11:30",
+    "transactionAmount": 11.19,
+    "merchantName": "AMC #706324",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 4338.99
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 649.82,
+    "transactionDateTime": "2016-01-30T19:21:36",
+    "transactionAmount": 183.26,
+    "merchantName": "Regal Cinemas #276341",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 4350.18
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 466.56,
+    "transactionDateTime": "2016-01-31T09:59:44",
+    "transactionAmount": 26.18,
+    "merchantName": "EZ Putt Putt #69446",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 4533.44
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 440.38,
+    "transactionDateTime": "2016-01-31T22:38:47",
+    "transactionAmount": 463.18,
+    "merchantName": "EZ Putt Putt #755869",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 4559.62
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 1968.1,
+    "transactionDateTime": "2016-02-01T02:42:50",
+    "transactionAmount": 232.79,
+    "merchantName": "AMC #606218",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 3031.9
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 1735.31,
+    "transactionDateTime": "2016-02-01T16:57:30",
+    "transactionAmount": 139.4,
+    "merchantName": "AMC #145832",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 3264.69
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 1595.91,
+    "transactionDateTime": "2016-02-03T00:23:06",
+    "transactionAmount": 0.02,
+    "merchantName": "AMC #692956",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 3404.09
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 1595.89,
+    "transactionDateTime": "2016-02-03T01:31:29",
+    "transactionAmount": 30.1,
+    "merchantName": "AMC #79863",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 3404.11
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 1565.79,
+    "transactionDateTime": "2016-02-03T07:02:21",
+    "transactionAmount": 0.88,
+    "merchantName": "AMC #191138",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 3434.21
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 1564.91,
+    "transactionDateTime": "2016-02-03T22:59:33",
+    "transactionAmount": 155.49,
+    "merchantName": "EZ Putt Putt #240241",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 3435.09
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 1409.42,
+    "transactionDateTime": "2016-02-03T23:23:17",
+    "transactionAmount": 176.23,
+    "merchantName": "EZ Putt Putt #551896",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 3590.58
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 1233.19,
+    "transactionDateTime": "2016-02-03T23:23:21",
+    "transactionAmount": 176.23,
+    "merchantName": "EZ Putt Putt #551896",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 3766.81
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 1056.96,
+    "transactionDateTime": "2016-02-05T02:50:23",
+    "transactionAmount": 135.84,
+    "merchantName": "AMC #79863",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 3943.04
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 921.12,
+    "transactionDateTime": "2016-02-05T12:08:29",
+    "transactionAmount": 256.05,
+    "merchantName": "AMC #79863",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 4078.88
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 665.07,
+    "transactionDateTime": "2016-02-06T13:48:16",
+    "transactionAmount": 38.39,
+    "merchantName": "AMC #145832",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 4334.93
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 626.68,
+    "transactionDateTime": "2016-02-06T15:56:20",
+    "transactionAmount": 0,
+    "merchantName": "AMC #724446",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 4373.32
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 626.68,
+    "transactionDateTime": "2016-02-07T17:43:49",
+    "transactionAmount": 20.55,
+    "merchantName": "AMC #145832",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 4373.32
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 606.13,
+    "transactionDateTime": "2016-02-07T18:22:24",
+    "transactionAmount": 34.01,
+    "merchantName": "AMC #724446",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 4393.87
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 572.12,
+    "transactionDateTime": "2016-02-08T14:22:13",
+    "transactionAmount": 0,
+    "merchantName": "EZ Putt Putt #551896",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 4427.88
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 572.12,
+    "transactionDateTime": "2016-02-09T06:19:18",
+    "transactionAmount": 103.75,
+    "merchantName": "Subway #339213",
+    "merchantCategoryCode": "fastfood",
+    "currentBalance": 4427.88
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 468.37,
+    "transactionDateTime": "2016-02-10T11:49:00",
+    "transactionAmount": 40.6,
+    "merchantName": "Regal Cinemas #729464",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 4531.63
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 427.77,
+    "transactionDateTime": "2016-02-11T03:31:02",
+    "transactionAmount": 413.45,
+    "merchantName": "EZ Putt Putt #503815",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 4572.23
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 2808.19,
+    "transactionDateTime": "2016-02-11T10:41:39",
+    "transactionAmount": 107.8,
+    "merchantName": "AMC #191138",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 2191.81
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 2700.39,
+    "transactionDateTime": "2016-02-12T02:45:49",
+    "transactionAmount": 28.9,
+    "merchantName": "EZ Putt Putt #40513",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 2299.61
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 2671.49,
+    "transactionDateTime": "2016-02-12T08:19:35",
+    "transactionAmount": 266.75,
+    "merchantName": "AMC #74121",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 2328.51
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 2404.74,
+    "transactionDateTime": "2016-02-13T02:51:57",
+    "transactionAmount": 1.26,
+    "merchantName": "Regal Cinemas #05791",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 2595.26
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 2403.48,
+    "transactionDateTime": "2016-02-13T10:12:19",
+    "transactionAmount": 31.37,
+    "merchantName": "EZ Putt Putt #40513",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 2596.52
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 2372.11,
+    "transactionDateTime": "2016-02-13T16:26:16",
+    "transactionAmount": 0,
+    "merchantName": "AMC #191138",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 2627.89
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 2372.11,
+    "transactionDateTime": "2016-02-14T12:17:38",
+    "transactionAmount": 35.21,
+    "merchantName": "Regal Cinemas #729464",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 2627.89
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 2336.9,
+    "transactionDateTime": "2016-02-14T21:12:18",
+    "transactionAmount": 312.65,
+    "merchantName": "AMC #145832",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 2663.1
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 2024.25,
+    "transactionDateTime": "2016-02-15T19:44:23",
+    "transactionAmount": 162.61,
+    "merchantName": "EZ Putt Putt #982199",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 2975.75
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 1861.64,
+    "transactionDateTime": "2016-02-17T12:37:46",
+    "transactionAmount": 153.69,
+    "merchantName": "AMC #552863",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 3138.36
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 1707.95,
+    "transactionDateTime": "2016-02-17T13:22:13",
+    "transactionAmount": 374.59,
+    "merchantName": "Regal Cinemas #729464",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 3292.05
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 1333.36,
+    "transactionDateTime": "2016-02-18T08:34:31",
+    "transactionAmount": 0.73,
+    "merchantName": "AMC #128743",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 3666.64
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 1332.63,
+    "transactionDateTime": "2016-02-18T11:26:07",
+    "transactionAmount": 37.78,
+    "merchantName": "EZ Putt Putt #551896",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 3667.37
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 1294.85,
+    "transactionDateTime": "2016-02-19T00:41:23",
+    "transactionAmount": 49.45,
+    "merchantName": "AMC #128743",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 3705.15
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 1245.4,
+    "transactionDateTime": "2016-02-19T02:27:32",
+    "transactionAmount": 66.97,
+    "merchantName": "EZ Putt Putt #69446",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 3754.6
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 1178.43,
+    "transactionDateTime": "2016-02-19T14:36:22",
+    "transactionAmount": 469.04,
+    "merchantName": "AMC #74121",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 3821.57
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 709.39,
+    "transactionDateTime": "2016-02-20T03:59:04",
+    "transactionAmount": 382.79,
+    "merchantName": "Domino's Pizza #530652",
+    "merchantCategoryCode": "fastfood",
+    "currentBalance": 4290.61
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 326.6,
+    "transactionDateTime": "2016-02-20T07:02:55",
+    "transactionAmount": 254.26,
+    "merchantName": "Regal Cinemas #05791",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 4673.4
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 4673.34,
+    "transactionDateTime": "2016-02-21T08:56:55",
+    "transactionAmount": 25.3,
+    "merchantName": "Regal Cinemas #05791",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 326.66
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 4648.04,
+    "transactionDateTime": "2016-02-21T23:49:26",
+    "transactionAmount": 102.32,
+    "merchantName": "EZ Putt Putt #982199",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 351.96
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 4545.72,
+    "transactionDateTime": "2016-02-23T09:27:28",
+    "transactionAmount": 11.13,
+    "merchantName": "AMC #74121",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 454.28
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 4534.59,
+    "transactionDateTime": "2016-02-23T20:50:36",
+    "transactionAmount": 202.56,
+    "merchantName": "AMC #724446",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 465.41
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 4332.03,
+    "transactionDateTime": "2016-02-23T20:53:32",
+    "transactionAmount": 202.56,
+    "merchantName": "AMC #724446",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 667.97
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 4129.47,
+    "transactionDateTime": "2016-02-24T13:14:16",
+    "transactionAmount": 320.58,
+    "merchantName": "AMC #606218",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 870.53
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 3808.89,
+    "transactionDateTime": "2016-02-25T22:53:38",
+    "transactionAmount": 175.15,
+    "merchantName": "AMC #706324",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 1191.11
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 3633.74,
+    "transactionDateTime": "2016-02-26T16:11:37",
+    "transactionAmount": 112.9,
+    "merchantName": "EZ Putt Putt #503815",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 1366.26
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 3520.84,
+    "transactionDateTime": "2016-02-27T04:31:11",
+    "transactionAmount": 18.7,
+    "merchantName": "AMC #79863",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 1479.16
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 3502.14,
+    "transactionDateTime": "2016-02-27T12:07:36",
+    "transactionAmount": 13.31,
+    "merchantName": "AMC #706324",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 1497.86
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 3488.83,
+    "transactionDateTime": "2016-02-27T19:14:09",
+    "transactionAmount": 88.31,
+    "merchantName": "AMC #692956",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 1511.17
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 3400.52,
+    "transactionDateTime": "2016-02-28T01:37:54",
+    "transactionAmount": 106.68,
+    "merchantName": "AMC #74121",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 1599.48
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 3293.84,
+    "transactionDateTime": "2016-02-28T17:05:28",
+    "transactionAmount": 106.44,
+    "merchantName": "AMC #74121",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 1706.16
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 3187.4,
+    "transactionDateTime": "2016-02-29T01:43:43",
+    "transactionAmount": 35.89,
+    "merchantName": "AMC #692956",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 1812.6
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 3151.51,
+    "transactionDateTime": "2016-02-29T16:58:50",
+    "transactionAmount": 42.71,
+    "merchantName": "AMC #706324",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 1848.49
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 3108.8,
+    "transactionDateTime": "2016-02-29T20:07:21",
+    "transactionAmount": 263.12,
+    "merchantName": "AMC #145832",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 1891.2
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 2870.68,
+    "transactionDateTime": "2016-03-01T04:25:26",
+    "transactionAmount": 22.29,
+    "merchantName": "EZ Putt Putt #503815",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 2129.32
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 2848.39,
+    "transactionDateTime": "2016-03-01T17:09:16",
+    "transactionAmount": 52.05,
+    "merchantName": "EZ Putt Putt #755869",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 2151.61
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 2796.34,
+    "transactionDateTime": "2016-03-01T17:25:55",
+    "transactionAmount": 259.77,
+    "merchantName": "Pizza Hut #829289",
+    "merchantCategoryCode": "fastfood",
+    "currentBalance": 2203.66
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 2536.57,
+    "transactionDateTime": "2016-03-02T02:26:34",
+    "transactionAmount": 89.19,
+    "merchantName": "EZ Putt Putt #40513",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 2463.43
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 2447.38,
+    "transactionDateTime": "2016-03-02T07:49:49",
+    "transactionAmount": 216.92,
+    "merchantName": "Regal Cinemas #729464",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 2552.62
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 2230.46,
+    "transactionDateTime": "2016-03-02T09:24:20",
+    "transactionAmount": 26.29,
+    "merchantName": "EZ Putt Putt #982199",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 2769.54
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 2204.17,
+    "transactionDateTime": "2016-03-02T17:03:16",
+    "transactionAmount": 121.94,
+    "merchantName": "Regal Cinemas #729464",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 2795.83
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 2082.23,
+    "transactionDateTime": "2016-03-04T01:53:34",
+    "transactionAmount": 42.48,
+    "merchantName": "EZ Putt Putt #503815",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 2917.77
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 2039.75,
+    "transactionDateTime": "2016-03-04T21:35:06",
+    "transactionAmount": 31.24,
+    "merchantName": "EZ Putt Putt #755869",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 2960.25
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 2008.51,
+    "transactionDateTime": "2016-03-04T23:26:22",
+    "transactionAmount": 117.85,
+    "merchantName": "AMC #552863",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 2991.49
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 1890.66,
+    "transactionDateTime": "2016-03-05T11:18:44",
+    "transactionAmount": 20.33,
+    "merchantName": "AMC #145832",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 3109.34
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 1870.33,
+    "transactionDateTime": "2016-03-05T21:55:49",
+    "transactionAmount": 224.55,
+    "merchantName": "AMC #724446",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 3129.67
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 1645.78,
+    "transactionDateTime": "2016-03-06T06:10:39",
+    "transactionAmount": 133.09,
+    "merchantName": "EZ Putt Putt #755869",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 3354.22
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 1512.69,
+    "transactionDateTime": "2016-03-06T13:25:21",
+    "transactionAmount": 182.56,
+    "merchantName": "EZ Putt Putt #69446",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 3487.31
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 1330.13,
+    "transactionDateTime": "2016-03-06T22:05:41",
+    "transactionAmount": 1322.64,
+    "merchantName": "AMC #552863",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 3669.87
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 556,
+    "transactionDateTime": "2016-03-07T08:18:27",
+    "transactionAmount": 65.79,
+    "merchantName": "Regal Cinemas #05791",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 4444
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 490.21,
+    "transactionDateTime": "2016-03-07T20:15:10",
+    "transactionAmount": 5.83,
+    "merchantName": "Regal Cinemas #276341",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 4509.79
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 484.38,
+    "transactionDateTime": "2016-03-09T12:23:08",
+    "transactionAmount": 56.2,
+    "merchantName": "AMC #692956",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 4515.62
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 428.18,
+    "transactionDateTime": "2016-03-09T13:14:25",
+    "transactionAmount": 40.99,
+    "merchantName": "AMC #552863",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 4571.82
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 387.19,
+    "transactionDateTime": "2016-03-09T13:55:47",
+    "transactionAmount": 231.72,
+    "merchantName": "EZ Putt Putt #551896",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 4612.81
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 2324.69,
+    "transactionDateTime": "2016-03-10T05:08:16",
+    "transactionAmount": 55.87,
+    "merchantName": "AMC #145832",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 2675.31
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 2268.82,
+    "transactionDateTime": "2016-03-10T09:14:08",
+    "transactionAmount": 162.89,
+    "merchantName": "AMC #74121",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 2731.18
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 2105.93,
+    "transactionDateTime": "2016-03-10T13:09:11",
+    "transactionAmount": 219.85,
+    "merchantName": "AMC #724446",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 2894.07
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 1886.08,
+    "transactionDateTime": "2016-03-10T15:07:25",
+    "transactionAmount": 50.1,
+    "merchantName": "Regal Cinemas #729464",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 3113.92
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 1835.98,
+    "transactionDateTime": "2016-03-10T18:15:18",
+    "transactionAmount": 408.78,
+    "merchantName": "EZ Putt Putt #804489",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 3164.02
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 1427.2,
+    "transactionDateTime": "2016-03-10T23:59:29",
+    "transactionAmount": 115.98,
+    "merchantName": "AMC #552863",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 3572.8
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 1311.22,
+    "transactionDateTime": "2016-03-11T16:54:46",
+    "transactionAmount": 13.92,
+    "merchantName": "In-N-Out #948343",
+    "merchantCategoryCode": "fastfood",
+    "currentBalance": 3688.78
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 1297.3,
+    "transactionDateTime": "2016-03-12T09:42:11",
+    "transactionAmount": 66.58,
+    "merchantName": "EZ Putt Putt #69446",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 3702.7
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 1230.72,
+    "transactionDateTime": "2016-03-12T13:04:44",
+    "transactionAmount": 404.46,
+    "merchantName": "EZ Putt Putt #755869",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 3769.28
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 826.26,
+    "transactionDateTime": "2016-03-13T01:33:32",
+    "transactionAmount": 160.24,
+    "merchantName": "AMC #606218",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 4173.74
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 666.02,
+    "transactionDateTime": "2016-03-13T15:55:27",
+    "transactionAmount": 56.41,
+    "merchantName": "AMC #74121",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 4333.98
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 609.61,
+    "transactionDateTime": "2016-03-13T20:22:36",
+    "transactionAmount": 32.12,
+    "merchantName": "AMC #74121",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 4390.39
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 577.49,
+    "transactionDateTime": "2016-03-14T07:45:51",
+    "transactionAmount": 374.12,
+    "merchantName": "AMC #606218",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 4422.51
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 1591.85,
+    "transactionDateTime": "2016-03-15T09:51:06",
+    "transactionAmount": 37.14,
+    "merchantName": "Regal Cinemas #729464",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 3408.15
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 1554.71,
+    "transactionDateTime": "2016-03-16T06:49:27",
+    "transactionAmount": 88.77,
+    "merchantName": "AMC #128743",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 3445.29
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 1465.94,
+    "transactionDateTime": "2016-03-16T23:44:26",
+    "transactionAmount": 75.5,
+    "merchantName": "Regal Cinemas #05791",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 3534.06
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 1390.44,
+    "transactionDateTime": "2016-03-17T15:42:07",
+    "transactionAmount": 49.51,
+    "merchantName": "Regal Cinemas #729464",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 3609.56
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 1340.93,
+    "transactionDateTime": "2016-03-18T09:40:25",
+    "transactionAmount": 221.58,
+    "merchantName": "Regal Cinemas #276341",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 3659.07
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 1119.35,
+    "transactionDateTime": "2016-03-19T14:41:07",
+    "transactionAmount": 228.27,
+    "merchantName": "AMC #79863",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 3880.65
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 891.08,
+    "transactionDateTime": "2016-03-20T03:10:28",
+    "transactionAmount": 209.74,
+    "merchantName": "Regal Cinemas #276341",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 4108.92
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 681.34,
+    "transactionDateTime": "2016-03-21T15:43:01",
+    "transactionAmount": 169.91,
+    "merchantName": "EZ Putt Putt #40513",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 4318.66
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 511.43,
+    "transactionDateTime": "2016-03-21T17:53:06",
+    "transactionAmount": 153.15,
+    "merchantName": "Regal Cinemas #276341",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 4488.57
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 358.28,
+    "transactionDateTime": "2016-03-22T19:02:44",
+    "transactionAmount": 39.77,
+    "merchantName": "EZ Putt Putt #503815",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 4641.72
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 318.51,
+    "transactionDateTime": "2016-03-22T21:04:32",
+    "transactionAmount": 176.52,
+    "merchantName": "AMC #692956",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 4681.49
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 1900.69,
+    "transactionDateTime": "2016-03-22T21:23:10",
+    "transactionAmount": 19.62,
+    "merchantName": "AMC #145832",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 3099.31
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 1881.07,
+    "transactionDateTime": "2016-03-24T01:01:54",
+    "transactionAmount": 72.77,
+    "merchantName": "AMC #145832",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 3118.93
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 1808.3,
+    "transactionDateTime": "2016-03-24T02:20:39",
+    "transactionAmount": 302.49,
+    "merchantName": "Dunkin' Donuts #515185",
+    "merchantCategoryCode": "fastfood",
+    "currentBalance": 3191.7
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 1505.81,
+    "transactionDateTime": "2016-03-24T04:25:56",
+    "transactionAmount": 5.98,
+    "merchantName": "EZ Putt Putt #982199",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 3494.19
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 1499.83,
+    "transactionDateTime": "2016-03-24T22:32:15",
+    "transactionAmount": 0,
+    "merchantName": "EZ Putt Putt #755869",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 3500.17
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 1499.83,
+    "transactionDateTime": "2016-03-25T03:26:22",
+    "transactionAmount": 177.43,
+    "merchantName": "AMC #724446",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 3500.17
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 1322.4,
+    "transactionDateTime": "2016-03-25T17:14:35",
+    "transactionAmount": 103.64,
+    "merchantName": "EZ Putt Putt #40513",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 3677.6
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 1218.76,
+    "transactionDateTime": "2016-03-26T06:08:28",
+    "transactionAmount": 40.99,
+    "merchantName": "AMC #552863",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 3781.24
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 1259.75,
+    "transactionDateTime": "2016-03-26T11:39:50",
+    "transactionAmount": 43.83,
+    "merchantName": "AMC #552863",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 3740.25
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 1215.92,
+    "transactionDateTime": "2016-03-26T22:23:01",
+    "transactionAmount": 161.59,
+    "merchantName": "EZ Putt Putt #503815",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 3784.08
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 1054.33,
+    "transactionDateTime": "2016-03-27T16:02:48",
+    "transactionAmount": 184.47,
+    "merchantName": "AMC #606218",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 3945.67
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 869.86,
+    "transactionDateTime": "2016-03-30T16:05:04",
+    "transactionAmount": 60.44,
+    "merchantName": "AMC #145832",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 4130.14
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 809.42,
+    "transactionDateTime": "2016-03-30T17:00:18",
+    "transactionAmount": 134.55,
+    "merchantName": "EZ Putt Putt #755869",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 4190.58
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 674.87,
+    "transactionDateTime": "2016-03-30T19:48:50",
+    "transactionAmount": 462.71,
+    "merchantName": "AMC #606218",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 4325.13
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 5000,
+    "transactionDateTime": "2016-03-31T04:40:12",
+    "transactionAmount": 80.5,
+    "merchantName": "AMC #145832",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 0
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 4919.5,
+    "transactionDateTime": "2016-03-31T19:59:19",
+    "transactionAmount": 110.34,
+    "merchantName": "EZ Putt Putt #503815",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 80.5
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 4834.16,
+    "transactionDateTime": "2016-04-01T05:50:48",
+    "transactionAmount": 470.99,
+    "merchantName": "AMC #191138",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 165.84
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 4363.17,
+    "transactionDateTime": "2016-04-01T05:52:25",
+    "transactionAmount": 366.71,
+    "merchantName": "AMC #191138",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 636.83
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 4729.88,
+    "transactionDateTime": "2016-04-02T02:36:19",
+    "transactionAmount": 13.53,
+    "merchantName": "EZ Putt Putt #40513",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 270.12
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 4716.35,
+    "transactionDateTime": "2016-04-02T11:05:15",
+    "transactionAmount": 178.2,
+    "merchantName": "EZ Putt Putt #69446",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 283.65
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 4538.15,
+    "transactionDateTime": "2016-04-02T18:16:27",
+    "transactionAmount": 520.45,
+    "merchantName": "Regal Cinemas #05791",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 461.85
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 4017.7,
+    "transactionDateTime": "2016-04-02T20:30:21",
+    "transactionAmount": 427.25,
+    "merchantName": "EZ Putt Putt #755869",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 982.3
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 3590.45,
+    "transactionDateTime": "2016-04-03T15:50:16",
+    "transactionAmount": 57.98,
+    "merchantName": "AMC #191138",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 1409.55
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 3532.47,
+    "transactionDateTime": "2016-04-04T03:46:50",
+    "transactionAmount": 53.55,
+    "merchantName": "Regal Cinemas #05791",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 1467.53
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 3478.92,
+    "transactionDateTime": "2016-04-04T11:33:22",
+    "transactionAmount": 55.05,
+    "merchantName": "EZ Putt Putt #503815",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 1521.08
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 3423.87,
+    "transactionDateTime": "2016-04-05T09:32:47",
+    "transactionAmount": 17.83,
+    "merchantName": "AMC #606218",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 1576.13
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 3406.04,
+    "transactionDateTime": "2016-04-06T00:52:21",
+    "transactionAmount": 64.11,
+    "merchantName": "AMC #79863",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 1593.96
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 3341.93,
+    "transactionDateTime": "2016-04-06T08:03:52",
+    "transactionAmount": 178.51,
+    "merchantName": "AMC #128743",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 1658.07
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 3163.42,
+    "transactionDateTime": "2016-04-07T16:45:54",
+    "transactionAmount": 150,
+    "merchantName": "AMC #692956",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 1836.58
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 3013.42,
+    "transactionDateTime": "2016-04-07T17:29:49",
+    "transactionAmount": 115.28,
+    "merchantName": "AMC #724446",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 1986.58
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 2898.14,
+    "transactionDateTime": "2016-04-08T00:06:20",
+    "transactionAmount": 167.96,
+    "merchantName": "KFC #304124",
+    "merchantCategoryCode": "fastfood",
+    "currentBalance": 2101.86
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 2730.18,
+    "transactionDateTime": "2016-04-08T00:24:09",
+    "transactionAmount": 427.59,
+    "merchantName": "AMC #74121",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 2269.82
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 2302.59,
+    "transactionDateTime": "2016-04-08T19:36:34",
+    "transactionAmount": 94.56,
+    "merchantName": "AMC #79863",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 2697.41
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 2208.03,
+    "transactionDateTime": "2016-04-09T05:00:37",
+    "transactionAmount": 153.66,
+    "merchantName": "AMC #191138",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 2791.97
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 2054.37,
+    "transactionDateTime": "2016-04-09T12:31:06",
+    "transactionAmount": 10.42,
+    "merchantName": "EZ Putt Putt #982199",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 2945.63
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 2043.95,
+    "transactionDateTime": "2016-04-10T06:11:20",
+    "transactionAmount": 34.66,
+    "merchantName": "AMC #706324",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 2956.05
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 2009.29,
+    "transactionDateTime": "2016-04-11T07:42:12",
+    "transactionAmount": 57.92,
+    "merchantName": "AMC #724446",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 2990.71
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 1951.37,
+    "transactionDateTime": "2016-04-12T02:11:33",
+    "transactionAmount": 9.22,
+    "merchantName": "AMC #606218",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 3048.63
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 1942.15,
+    "transactionDateTime": "2016-04-12T11:56:22",
+    "transactionAmount": 149.91,
+    "merchantName": "Regal Cinemas #729464",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 3057.85
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 1792.24,
+    "transactionDateTime": "2016-04-12T14:55:58",
+    "transactionAmount": 417.37,
+    "merchantName": "AMC #191138",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 3207.76
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 1374.87,
+    "transactionDateTime": "2016-04-12T22:00:12",
+    "transactionAmount": 65.22,
+    "merchantName": "Domino's Pizza #822153",
+    "merchantCategoryCode": "fastfood",
+    "currentBalance": 3625.13
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 1309.65,
+    "transactionDateTime": "2016-04-15T03:52:50",
+    "transactionAmount": 156.06,
+    "merchantName": "AMC #191138",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 3690.35
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 1153.59,
+    "transactionDateTime": "2016-04-15T17:28:34",
+    "transactionAmount": 20.75,
+    "merchantName": "AMC #552863",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 3846.41
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 1132.84,
+    "transactionDateTime": "2016-04-15T18:15:58",
+    "transactionAmount": 88.78,
+    "merchantName": "EZ Putt Putt #240241",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 3867.16
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 1044.06,
+    "transactionDateTime": "2016-04-16T04:53:53",
+    "transactionAmount": 71.34,
+    "merchantName": "EZ Putt Putt #40513",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 3955.94
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 972.72,
+    "transactionDateTime": "2016-04-16T08:31:19",
+    "transactionAmount": 315.53,
+    "merchantName": "EZ Putt Putt #69446",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 4027.28
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 657.19,
+    "transactionDateTime": "2016-04-17T15:51:30",
+    "transactionAmount": 26.29,
+    "merchantName": "AMC #552863",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 4342.81
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 630.9,
+    "transactionDateTime": "2016-04-19T07:49:18",
+    "transactionAmount": 746.16,
+    "merchantName": "EZ Putt Putt #551896",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 4369.1
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 1124.32,
+    "transactionDateTime": "2016-04-20T08:51:30",
+    "transactionAmount": 0,
+    "merchantName": "AMC #724446",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 3875.68
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 1124.32,
+    "transactionDateTime": "2016-04-20T08:53:26",
+    "transactionAmount": 0,
+    "merchantName": "AMC #724446",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 3875.68
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 1124.32,
+    "transactionDateTime": "2016-04-21T02:41:22",
+    "transactionAmount": 17.65,
+    "merchantName": "EZ Putt Putt #240241",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 3875.68
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 1106.67,
+    "transactionDateTime": "2016-04-21T19:02:27",
+    "transactionAmount": 32.19,
+    "merchantName": "Regal Cinemas #05791",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 3893.33
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 1074.48,
+    "transactionDateTime": "2016-04-22T03:12:28",
+    "transactionAmount": 80.27,
+    "merchantName": "Regal Cinemas #276341",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 3925.52
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 994.21,
+    "transactionDateTime": "2016-04-22T06:32:33",
+    "transactionAmount": 0,
+    "merchantName": "EZ Putt Putt #804489",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 4005.79
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 994.21,
+    "transactionDateTime": "2016-04-22T22:55:37",
+    "transactionAmount": 113.26,
+    "merchantName": "EZ Putt Putt #551896",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 4005.79
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 880.95,
+    "transactionDateTime": "2016-04-23T15:30:05",
+    "transactionAmount": 4.02,
+    "merchantName": "AMC #74121",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 4119.05
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 876.93,
+    "transactionDateTime": "2016-04-24T09:26:23",
+    "transactionAmount": 9.86,
+    "merchantName": "AMC #692956",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 4123.07
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 867.07,
+    "transactionDateTime": "2016-04-24T15:57:47",
+    "transactionAmount": 118.98,
+    "merchantName": "EZ Putt Putt #240241",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 4132.93
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 748.09,
+    "transactionDateTime": "2016-04-24T16:57:14",
+    "transactionAmount": 0,
+    "merchantName": "AMC #74121",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 4251.91
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 748.09,
+    "transactionDateTime": "2016-04-26T11:54:51",
+    "transactionAmount": 122.5,
+    "merchantName": "EZ Putt Putt #240241",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 4251.91
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 625.59,
+    "transactionDateTime": "2016-04-26T12:40:02",
+    "transactionAmount": 286.92,
+    "merchantName": "AMC #692956",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 4374.41
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 338.67,
+    "transactionDateTime": "2016-04-27T05:45:17",
+    "transactionAmount": 134.55,
+    "merchantName": "EZ Putt Putt #755869",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 4661.33
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 473.22,
+    "transactionDateTime": "2016-04-27T12:13:15",
+    "transactionAmount": 298.35,
+    "merchantName": "EZ Putt Putt #755869",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 4526.78
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 3023.06,
+    "transactionDateTime": "2016-04-28T02:09:41",
+    "transactionAmount": 94.99,
+    "merchantName": "AMC #692956",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 1976.94
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 2928.07,
+    "transactionDateTime": "2016-04-28T15:05:14",
+    "transactionAmount": 432.83,
+    "merchantName": "In-N-Out #672062",
+    "merchantCategoryCode": "fastfood",
+    "currentBalance": 2071.93
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 2495.24,
+    "transactionDateTime": "2016-04-28T19:40:38",
+    "transactionAmount": 203.2,
+    "merchantName": "AMC #724446",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 2504.76
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 2292.04,
+    "transactionDateTime": "2016-04-29T20:26:25",
+    "transactionAmount": 13.05,
+    "merchantName": "Regal Cinemas #729464",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 2707.96
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 2278.99,
+    "transactionDateTime": "2016-04-30T18:45:15",
+    "transactionAmount": 47.89,
+    "merchantName": "Starbucks #234833",
+    "merchantCategoryCode": "fastfood",
+    "currentBalance": 2721.01
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 2256.1,
+    "transactionDateTime": "2016-05-01T03:13:28",
+    "transactionAmount": 6.61,
+    "merchantName": "Wendys #731740",
+    "merchantCategoryCode": "fastfood",
+    "currentBalance": 2743.9
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 2249.49,
+    "transactionDateTime": "2016-05-01T05:32:43",
+    "transactionAmount": 73.09,
+    "merchantName": "EZ Putt Putt #982199",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 2750.51
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 2176.4,
+    "transactionDateTime": "2016-05-01T09:43:54",
+    "transactionAmount": 77.15,
+    "merchantName": "AMC #74121",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 2823.6
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 2099.25,
+    "transactionDateTime": "2016-05-03T10:17:07",
+    "transactionAmount": 18.05,
+    "merchantName": "AMC #724446",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 2900.75
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 2081.2,
+    "transactionDateTime": "2016-05-04T04:07:37",
+    "transactionAmount": 278.26,
+    "merchantName": "AMC #79863",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 2918.8
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 1802.94,
+    "transactionDateTime": "2016-05-05T07:56:36",
+    "transactionAmount": 49.03,
+    "merchantName": "EZ Putt Putt #240241",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 3197.06
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 1753.91,
+    "transactionDateTime": "2016-05-05T11:14:40",
+    "transactionAmount": 66.52,
+    "merchantName": "AMC #706324",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 3246.09
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 1687.39,
+    "transactionDateTime": "2016-05-06T01:04:40",
+    "transactionAmount": 118.73,
+    "merchantName": "AMC #79863",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 3312.61
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 1568.66,
+    "transactionDateTime": "2016-05-06T20:07:42",
+    "transactionAmount": 254.03,
+    "merchantName": "AMC #706324",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 3431.34
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 1314.63,
+    "transactionDateTime": "2016-05-07T05:50:45",
+    "transactionAmount": 422.39,
+    "merchantName": "AMC #724446",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 3685.37
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 892.24,
+    "transactionDateTime": "2016-05-07T17:09:18",
+    "transactionAmount": 158.19,
+    "merchantName": "AMC #706324",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 4107.76
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 734.05,
+    "transactionDateTime": "2016-05-07T18:45:10",
+    "transactionAmount": 0,
+    "merchantName": "AMC #724446",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 4265.95
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 734.05,
+    "transactionDateTime": "2016-05-08T13:23:50",
+    "transactionAmount": 156.2,
+    "merchantName": "AMC #191138",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 4265.95
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 577.85,
+    "transactionDateTime": "2016-05-09T10:56:23",
+    "transactionAmount": 107.94,
+    "merchantName": "AMC #706324",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 4422.15
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 469.91,
+    "transactionDateTime": "2016-05-09T12:22:24",
+    "transactionAmount": 85.76,
+    "merchantName": "Regal Cinemas #729464",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 4530.09
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 384.15,
+    "transactionDateTime": "2016-05-09T15:59:35",
+    "transactionAmount": 167.79,
+    "merchantName": "Regal Cinemas #05791",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 4615.85
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 4882.7,
+    "transactionDateTime": "2016-05-10T12:25:40",
+    "transactionAmount": 382.42,
+    "merchantName": "AMC #191138",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 117.3
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 4500.28,
+    "transactionDateTime": "2016-05-11T17:37:51",
+    "transactionAmount": 122.34,
+    "merchantName": "EZ Putt Putt #804489",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 499.72
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 4377.94,
+    "transactionDateTime": "2016-05-12T22:42:54",
+    "transactionAmount": 24.2,
+    "merchantName": "Regal Cinemas #05791",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 622.06
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 4353.74,
+    "transactionDateTime": "2016-05-13T08:02:32",
+    "transactionAmount": 568.98,
+    "merchantName": "AMC #191138",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 646.26
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 3784.76,
+    "transactionDateTime": "2016-05-14T21:06:37",
+    "transactionAmount": 127.14,
+    "merchantName": "AMC #145832",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 1215.24
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 3657.62,
+    "transactionDateTime": "2016-05-14T23:00:21",
+    "transactionAmount": 4.2,
+    "merchantName": "EZ Putt Putt #755869",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 1342.38
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 3653.42,
+    "transactionDateTime": "2016-05-15T07:34:24",
+    "transactionAmount": 134.61,
+    "merchantName": "AMC #191138",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 1346.58
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 3518.81,
+    "transactionDateTime": "2016-05-16T07:21:34",
+    "transactionAmount": 36.68,
+    "merchantName": "AMC #128743",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 1481.19
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 3482.13,
+    "transactionDateTime": "2016-05-17T18:00:03",
+    "transactionAmount": 104.93,
+    "merchantName": "EZ Putt Putt #804489",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 1517.87
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 3377.2,
+    "transactionDateTime": "2016-05-18T00:10:02",
+    "transactionAmount": 0,
+    "merchantName": "EZ Putt Putt #804489",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 1622.8
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 3377.2,
+    "transactionDateTime": "2016-05-18T15:29:13",
+    "transactionAmount": 22.21,
+    "merchantName": "EZ Putt Putt #804489",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 1622.8
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 3354.99,
+    "transactionDateTime": "2016-05-20T19:05:43",
+    "transactionAmount": 198.7,
+    "merchantName": "AMC #74121",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 1645.01
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 3156.29,
+    "transactionDateTime": "2016-05-21T01:35:05",
+    "transactionAmount": 238.43,
+    "merchantName": "AMC #79863",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 1843.71
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 2917.86,
+    "transactionDateTime": "2016-05-21T02:45:41",
+    "transactionAmount": 0.93,
+    "merchantName": "AMC #128743",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 2082.14
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 2916.93,
+    "transactionDateTime": "2016-05-21T03:42:33",
+    "transactionAmount": 10.8,
+    "merchantName": "AMC #191138",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 2083.07
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 2906.13,
+    "transactionDateTime": "2016-05-22T01:27:30",
+    "transactionAmount": 162.81,
+    "merchantName": "AMC #145832",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 2093.87
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 2743.32,
+    "transactionDateTime": "2016-05-22T09:58:57",
+    "transactionAmount": 287.39,
+    "merchantName": "EZ Putt Putt #804489",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 2256.68
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 2455.93,
+    "transactionDateTime": "2016-05-23T04:30:23",
+    "transactionAmount": 280.75,
+    "merchantName": "AMC #606218",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 2544.07
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 2175.18,
+    "transactionDateTime": "2016-05-23T06:32:00",
+    "transactionAmount": 279.19,
+    "merchantName": "AMC #724446",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 2824.82
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 1895.99,
+    "transactionDateTime": "2016-05-25T23:58:07",
+    "transactionAmount": 78.72,
+    "merchantName": "AMC #79863",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 3104.01
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 1817.27,
+    "transactionDateTime": "2016-05-26T17:01:31",
+    "transactionAmount": 18.6,
+    "merchantName": "EZ Putt Putt #40513",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 3182.73
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 1798.67,
+    "transactionDateTime": "2016-05-26T22:31:48",
+    "transactionAmount": 84.62,
+    "merchantName": "AMC #692956",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 3201.33
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 1714.05,
+    "transactionDateTime": "2016-05-27T15:49:19",
+    "transactionAmount": 9.24,
+    "merchantName": "AMC #606218",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 3285.95
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 1704.81,
+    "transactionDateTime": "2016-05-28T00:11:50",
+    "transactionAmount": 100.47,
+    "merchantName": "EZ Putt Putt #804489",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 3295.19
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 1604.34,
+    "transactionDateTime": "2016-05-29T07:36:50",
+    "transactionAmount": 87.11,
+    "merchantName": "EZ Putt Putt #551896",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 3395.66
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 1517.23,
+    "transactionDateTime": "2016-05-29T15:00:17",
+    "transactionAmount": 29.1,
+    "merchantName": "EZ Putt Putt #69446",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 3482.77
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 1488.13,
+    "transactionDateTime": "2016-05-29T18:50:14",
+    "transactionAmount": 166.84,
+    "merchantName": "Regal Cinemas #276341",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 3511.87
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 1321.29,
+    "transactionDateTime": "2016-05-30T03:53:45",
+    "transactionAmount": 141.73,
+    "merchantName": "Regal Cinemas #276341",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 3678.71
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 1179.56,
+    "transactionDateTime": "2016-05-30T05:31:46",
+    "transactionAmount": 51.39,
+    "merchantName": "EZ Putt Putt #40513",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 3820.44
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 1128.17,
+    "transactionDateTime": "2016-05-31T05:36:48",
+    "transactionAmount": 172.24,
+    "merchantName": "AMC #145832",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 3871.83
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 955.93,
+    "transactionDateTime": "2016-05-31T09:38:26",
+    "transactionAmount": 108.86,
+    "merchantName": "AMC #552863",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 4044.07
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 847.07,
+    "transactionDateTime": "2016-05-31T22:30:32",
+    "transactionAmount": 66.52,
+    "merchantName": "AMC #706324",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 4152.93
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 938.59,
+    "transactionDateTime": "2016-06-01T11:14:10",
+    "transactionAmount": 32.74,
+    "merchantName": "AMC #79863",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 4061.41
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 905.85,
+    "transactionDateTime": "2016-06-01T23:46:24",
+    "transactionAmount": 238.38,
+    "merchantName": "AMC #724446",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 4094.15
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 667.47,
+    "transactionDateTime": "2016-06-02T11:49:44",
+    "transactionAmount": 80.26,
+    "merchantName": "EZ Putt Putt #551896",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 4332.53
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 587.21,
+    "transactionDateTime": "2016-06-02T13:04:17",
+    "transactionAmount": 14.08,
+    "merchantName": "AMC #692956",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 4412.79
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 573.13,
+    "transactionDateTime": "2016-06-02T16:42:17",
+    "transactionAmount": 33.44,
+    "merchantName": "AMC #724446",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 4426.87
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 539.69,
+    "transactionDateTime": "2016-06-02T16:43:46",
+    "transactionAmount": 33.44,
+    "merchantName": "AMC #724446",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 4460.31
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 506.25,
+    "transactionDateTime": "2016-06-02T20:48:43",
+    "transactionAmount": 640.26,
+    "merchantName": "AMC #191138",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 4493.75
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 3549.7,
+    "transactionDateTime": "2016-06-03T05:44:49",
+    "transactionAmount": 5.8,
+    "merchantName": "EZ Putt Putt #755869",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 1450.3
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 3543.9,
+    "transactionDateTime": "2016-06-03T09:26:24",
+    "transactionAmount": 49.83,
+    "merchantName": "Hardee's #301911",
+    "merchantCategoryCode": "fastfood",
+    "currentBalance": 1456.1
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 3494.07,
+    "transactionDateTime": "2016-06-03T19:28:22",
+    "transactionAmount": 36.34,
+    "merchantName": "EZ Putt Putt #69446",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 1505.93
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 3457.73,
+    "transactionDateTime": "2016-06-05T12:56:22",
+    "transactionAmount": 243.91,
+    "merchantName": "EZ Putt Putt #69446",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 1542.27
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 3213.82,
+    "transactionDateTime": "2016-06-06T18:05:55",
+    "transactionAmount": 54.99,
+    "merchantName": "Regal Cinemas #276341",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 1786.18
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 3158.83,
+    "transactionDateTime": "2016-06-07T16:44:25",
+    "transactionAmount": 69.6,
+    "merchantName": "Regal Cinemas #729464",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 1841.17
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 3089.23,
+    "transactionDateTime": "2016-06-09T05:20:32",
+    "transactionAmount": 231.99,
+    "merchantName": "Regal Cinemas #729464",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 1910.77
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 2857.24,
+    "transactionDateTime": "2016-06-09T19:10:04",
+    "transactionAmount": 121.6,
+    "merchantName": "EZ Putt Putt #982199",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 2142.76
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 2735.64,
+    "transactionDateTime": "2016-06-09T23:05:14",
+    "transactionAmount": 49.47,
+    "merchantName": "EZ Putt Putt #551896",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 2264.36
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 2686.17,
+    "transactionDateTime": "2016-06-11T18:47:26",
+    "transactionAmount": 160.71,
+    "merchantName": "AMC #191138",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 2313.83
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 2525.46,
+    "transactionDateTime": "2016-06-11T21:13:30",
+    "transactionAmount": 59.68,
+    "merchantName": "Regal Cinemas #05791",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 2474.54
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 2465.78,
+    "transactionDateTime": "2016-06-12T20:31:40",
+    "transactionAmount": 0,
+    "merchantName": "EZ Putt Putt #503815",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 2534.22
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 2465.78,
+    "transactionDateTime": "2016-06-12T20:33:35",
+    "transactionAmount": 0,
+    "merchantName": "EZ Putt Putt #503815",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 2534.22
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 2465.78,
+    "transactionDateTime": "2016-06-13T01:25:25",
+    "transactionAmount": 191.14,
+    "merchantName": "EZ Putt Putt #240241",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 2534.22
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 2274.64,
+    "transactionDateTime": "2016-06-13T20:32:57",
+    "transactionAmount": 83.46,
+    "merchantName": "AMC #724446",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 2725.36
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 2191.18,
+    "transactionDateTime": "2016-06-14T00:07:32",
+    "transactionAmount": 84.2,
+    "merchantName": "EZ Putt Putt #503815",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 2808.82
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 2106.98,
+    "transactionDateTime": "2016-06-14T17:19:22",
+    "transactionAmount": 9.01,
+    "merchantName": "EZ Putt Putt #40513",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 2893.02
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 2097.97,
+    "transactionDateTime": "2016-06-15T04:04:21",
+    "transactionAmount": 115.39,
+    "merchantName": "EZ Putt Putt #240241",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 2902.03
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 1982.58,
+    "transactionDateTime": "2016-06-15T12:25:57",
+    "transactionAmount": 72.4,
+    "merchantName": "AMC #74121",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 3017.42
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 1910.18,
+    "transactionDateTime": "2016-06-16T20:26:42",
+    "transactionAmount": 42.13,
+    "merchantName": "Regal Cinemas #05791",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 3089.82
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 1868.05,
+    "transactionDateTime": "2016-06-16T20:27:53",
+    "transactionAmount": 42.13,
+    "merchantName": "Regal Cinemas #05791",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 3131.95
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 1825.92,
+    "transactionDateTime": "2016-06-17T12:21:00",
+    "transactionAmount": 140.48,
+    "merchantName": "Regal Cinemas #276341",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 3174.08
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 1685.44,
+    "transactionDateTime": "2016-06-18T06:39:47",
+    "transactionAmount": 5.09,
+    "merchantName": "EZ Putt Putt #982199",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 3314.56
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 1680.35,
+    "transactionDateTime": "2016-06-18T06:41:33",
+    "transactionAmount": 5.09,
+    "merchantName": "EZ Putt Putt #982199",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 3319.65
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 1685.44,
+    "transactionDateTime": "2016-06-18T10:44:17",
+    "transactionAmount": 502.35,
+    "merchantName": "AMC #191138",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 3314.56
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 1183.09,
+    "transactionDateTime": "2016-06-18T17:55:44",
+    "transactionAmount": 462.4,
+    "merchantName": "AMC #692956",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 3816.91
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 720.69,
+    "transactionDateTime": "2016-06-18T20:23:59",
+    "transactionAmount": 50.34,
+    "merchantName": "EZ Putt Putt #755869",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 4279.31
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 670.35,
+    "transactionDateTime": "2016-06-19T03:11:29",
+    "transactionAmount": 24.58,
+    "merchantName": "EZ Putt Putt #982199",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 4329.65
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 645.77,
+    "transactionDateTime": "2016-06-20T23:17:22",
+    "transactionAmount": 440.16,
+    "merchantName": "AMC #552863",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 4354.23
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 3182.42,
+    "transactionDateTime": "2016-06-21T03:15:59",
+    "transactionAmount": 48.47,
+    "merchantName": "AMC #692956",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 1817.58
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 3133.95,
+    "transactionDateTime": "2016-06-21T05:35:48",
+    "transactionAmount": 58.02,
+    "merchantName": "AMC #191138",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 1866.05
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 3075.93,
+    "transactionDateTime": "2016-06-22T03:51:05",
+    "transactionAmount": 116.59,
+    "merchantName": "AMC #606218",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 1924.07
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 2959.34,
+    "transactionDateTime": "2016-06-23T05:46:06",
+    "transactionAmount": 198.99,
+    "merchantName": "AMC #128743",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 2040.66
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 2760.35,
+    "transactionDateTime": "2016-06-23T22:37:40",
+    "transactionAmount": 92.02,
+    "merchantName": "EZ Putt Putt #240241",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 2239.65
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 2668.33,
+    "transactionDateTime": "2016-06-23T23:36:58",
+    "transactionAmount": 0,
+    "merchantName": "AMC #692956",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 2331.67
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 2668.33,
+    "transactionDateTime": "2016-06-23T23:37:15",
+    "transactionAmount": 0,
+    "merchantName": "AMC #692956",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 2331.67
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 2668.33,
+    "transactionDateTime": "2016-06-24T02:31:03",
+    "transactionAmount": 116.33,
+    "merchantName": "EZ Putt Putt #40513",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 2331.67
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 2552,
+    "transactionDateTime": "2016-06-24T05:38:05",
+    "transactionAmount": 293.56,
+    "merchantName": "Regal Cinemas #276341",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 2448
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 2258.44,
+    "transactionDateTime": "2016-06-25T08:10:45",
+    "transactionAmount": 208.39,
+    "merchantName": "AMC #692956",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 2741.56
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 2050.05,
+    "transactionDateTime": "2016-06-26T00:48:31",
+    "transactionAmount": 358.65,
+    "merchantName": "AMC #606218",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 2949.95
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 1691.4,
+    "transactionDateTime": "2016-06-26T03:00:56",
+    "transactionAmount": 55.68,
+    "merchantName": "AMC #74121",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 3308.6
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 1635.72,
+    "transactionDateTime": "2016-06-26T05:01:15",
+    "transactionAmount": 15.41,
+    "merchantName": "Regal Cinemas #729464",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 3364.28
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 1620.31,
+    "transactionDateTime": "2016-06-26T06:22:11",
+    "transactionAmount": 246.36,
+    "merchantName": "EZ Putt Putt #503815",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 3379.69
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 1373.95,
+    "transactionDateTime": "2016-06-26T14:32:51",
+    "transactionAmount": 292.3,
+    "merchantName": "AMC #606218",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 3626.05
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 1081.65,
+    "transactionDateTime": "2016-06-26T22:18:54",
+    "transactionAmount": 205.15,
+    "merchantName": "EZ Putt Putt #503815",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 3918.35
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 876.5,
+    "transactionDateTime": "2016-06-27T02:16:32",
+    "transactionAmount": 326.58,
+    "merchantName": "AMC #552863",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 4123.5
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 549.92,
+    "transactionDateTime": "2016-06-30T02:32:59",
+    "transactionAmount": 127.81,
+    "merchantName": "Regal Cinemas #05791",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 4450.08
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 447.11,
+    "transactionDateTime": "2016-07-01T23:22:52",
+    "transactionAmount": 162.37,
+    "merchantName": "KFC #760509",
+    "merchantCategoryCode": "fastfood",
+    "currentBalance": 4552.89
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 284.74,
+    "transactionDateTime": "2016-07-02T08:54:52",
+    "transactionAmount": 217,
+    "merchantName": "AMC #552863",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 4715.26
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 3089.94,
+    "transactionDateTime": "2016-07-02T13:34:15",
+    "transactionAmount": 68.36,
+    "merchantName": "AMC #552863",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 1910.06
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 3021.58,
+    "transactionDateTime": "2016-07-02T17:32:29",
+    "transactionAmount": 46.25,
+    "merchantName": "Burger King #821700",
+    "merchantCategoryCode": "fastfood",
+    "currentBalance": 1978.42
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 2975.33,
+    "transactionDateTime": "2016-07-03T03:37:59",
+    "transactionAmount": 218.21,
+    "merchantName": "Regal Cinemas #276341",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 2024.67
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 2757.12,
+    "transactionDateTime": "2016-07-03T18:33:33",
+    "transactionAmount": 10.2,
+    "merchantName": "EZ Putt Putt #551896",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 2242.88
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 2746.92,
+    "transactionDateTime": "2016-07-03T18:58:24",
+    "transactionAmount": 113.42,
+    "merchantName": "Quizno's #357998",
+    "merchantCategoryCode": "fastfood",
+    "currentBalance": 2253.08
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 2633.5,
+    "transactionDateTime": "2016-07-03T21:59:02",
+    "transactionAmount": 72.27,
+    "merchantName": "EZ Putt Putt #240241",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 2366.5
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 2561.23,
+    "transactionDateTime": "2016-07-04T00:49:54",
+    "transactionAmount": 43.32,
+    "merchantName": "EZ Putt Putt #503815",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 2438.77
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 2517.91,
+    "transactionDateTime": "2016-07-04T09:21:33",
+    "transactionAmount": 151.07,
+    "merchantName": "EZ Putt Putt #503815",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 2482.09
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 2366.84,
+    "transactionDateTime": "2016-07-04T23:03:44",
+    "transactionAmount": 201.03,
+    "merchantName": "Auntie Anne's #39331",
+    "merchantCategoryCode": "fastfood",
+    "currentBalance": 2633.16
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 2165.81,
+    "transactionDateTime": "2016-07-05T13:04:16",
+    "transactionAmount": 138.36,
+    "merchantName": "AMC #79863",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 2834.19
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 2027.45,
+    "transactionDateTime": "2016-07-06T06:30:01",
+    "transactionAmount": 314.08,
+    "merchantName": "EZ Putt Putt #40513",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 2972.55
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 1713.37,
+    "transactionDateTime": "2016-07-06T18:14:24",
+    "transactionAmount": 376.74,
+    "merchantName": "EZ Putt Putt #503815",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 3286.63
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 1336.63,
+    "transactionDateTime": "2016-07-07T02:12:25",
+    "transactionAmount": 76.32,
+    "merchantName": "AMC #79863",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 3663.37
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 1260.31,
+    "transactionDateTime": "2016-07-07T03:28:04",
+    "transactionAmount": 184.55,
+    "merchantName": "EZ Putt Putt #40513",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 3739.69
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 1075.76,
+    "transactionDateTime": "2016-07-07T14:15:33",
+    "transactionAmount": 14.58,
+    "merchantName": "EZ Putt Putt #755869",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 3924.24
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 1061.18,
+    "transactionDateTime": "2016-07-10T02:04:34",
+    "transactionAmount": 7.44,
+    "merchantName": "AMC #191138",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 3938.82
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 1053.74,
+    "transactionDateTime": "2016-07-10T05:45:00",
+    "transactionAmount": 112.6,
+    "merchantName": "AMC #724446",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 3946.26
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 941.14,
+    "transactionDateTime": "2016-07-11T12:43:48",
+    "transactionAmount": 105.13,
+    "merchantName": "Regal Cinemas #729464",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 4058.86
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 836.01,
+    "transactionDateTime": "2016-07-12T00:32:40",
+    "transactionAmount": 21.72,
+    "merchantName": "AMC #74121",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 4163.99
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 814.29,
+    "transactionDateTime": "2016-07-12T10:29:02",
+    "transactionAmount": 297.23,
+    "merchantName": "AMC #191138",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 4185.71
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 517.06,
+    "transactionDateTime": "2016-07-12T22:57:30",
+    "transactionAmount": 189.04,
+    "merchantName": "KFC #935101",
+    "merchantCategoryCode": "fastfood",
+    "currentBalance": 4482.94
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 328.02,
+    "transactionDateTime": "2016-07-13T20:02:14",
+    "transactionAmount": 50.43,
+    "merchantName": "AMC #706324",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 4671.98
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 277.59,
+    "transactionDateTime": "2016-07-14T00:09:01",
+    "transactionAmount": 50.57,
+    "merchantName": "AMC #191138",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 4722.41
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 869.62,
+    "transactionDateTime": "2016-07-14T04:34:23",
+    "transactionAmount": 31.18,
+    "merchantName": "EZ Putt Putt #804489",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 4130.38
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 838.44,
+    "transactionDateTime": "2016-07-14T06:03:33",
+    "transactionAmount": 86.09,
+    "merchantName": "AMC #145832",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 4161.56
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 752.35,
+    "transactionDateTime": "2016-07-14T07:43:34",
+    "transactionAmount": 106.92,
+    "merchantName": "AMC #79863",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 4247.65
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 645.43,
+    "transactionDateTime": "2016-07-14T08:32:17",
+    "transactionAmount": 45.92,
+    "merchantName": "EZ Putt Putt #503815",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 4354.57
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 599.51,
+    "transactionDateTime": "2016-07-14T13:12:01",
+    "transactionAmount": 125.12,
+    "merchantName": "AMC #706324",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 4400.49
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 474.39,
+    "transactionDateTime": "2016-07-14T22:15:32",
+    "transactionAmount": 117.63,
+    "merchantName": "EZ Putt Putt #551896",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 4525.61
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 356.76,
+    "transactionDateTime": "2016-07-15T11:00:30",
+    "transactionAmount": 2.62,
+    "merchantName": "EZ Putt Putt #69446",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 4643.24
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 354.14,
+    "transactionDateTime": "2016-07-16T21:47:42",
+    "transactionAmount": 98.78,
+    "merchantName": "AMC #74121",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 4645.86
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 255.36,
+    "transactionDateTime": "2016-07-17T18:07:55",
+    "transactionAmount": 0,
+    "merchantName": "EZ Putt Putt #40513",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 4744.64
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 255.36,
+    "transactionDateTime": "2016-07-18T15:02:32",
+    "transactionAmount": 89.46,
+    "merchantName": "AMC #191138",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 4744.64
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 2086.69,
+    "transactionDateTime": "2016-07-20T10:01:00",
+    "transactionAmount": 474.4,
+    "merchantName": "Burger King #968126",
+    "merchantCategoryCode": "fastfood",
+    "currentBalance": 2913.31
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 1612.29,
+    "transactionDateTime": "2016-07-22T11:55:33",
+    "transactionAmount": 85.64,
+    "merchantName": "EZ Putt Putt #69446",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 3387.71
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 1526.65,
+    "transactionDateTime": "2016-07-23T11:33:50",
+    "transactionAmount": 146.06,
+    "merchantName": "EZ Putt Putt #69446",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 3473.35
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 1380.59,
+    "transactionDateTime": "2016-07-25T01:49:40",
+    "transactionAmount": 21.74,
+    "merchantName": "Regal Cinemas #05791",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 3619.41
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 1358.85,
+    "transactionDateTime": "2016-07-25T10:26:23",
+    "transactionAmount": 378.31,
+    "merchantName": "Raymour Flanigan",
+    "merchantCategoryCode": "furniture",
+    "currentBalance": 3641.15
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 980.54,
+    "transactionDateTime": "2016-07-26T00:24:02",
+    "transactionAmount": 127.01,
+    "merchantName": "EZ Putt Putt #240241",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 4019.46
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 853.53,
+    "transactionDateTime": "2016-07-26T08:27:12",
+    "transactionAmount": 286.03,
+    "merchantName": "AMC #552863",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 4146.47
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 567.5,
+    "transactionDateTime": "2016-07-27T11:02:30",
+    "transactionAmount": 153.17,
+    "merchantName": "EZ Putt Putt #804489",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 4432.5
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 414.33,
+    "transactionDateTime": "2016-07-27T18:14:01",
+    "transactionAmount": 26.42,
+    "merchantName": "EZ Putt Putt #804489",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 4585.67
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 387.91,
+    "transactionDateTime": "2016-07-28T06:33:30",
+    "transactionAmount": 166.37,
+    "merchantName": "Subway #970858",
+    "merchantCategoryCode": "fastfood",
+    "currentBalance": 4612.09
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 3541.44,
+    "transactionDateTime": "2016-07-28T12:38:48",
+    "transactionAmount": 57.47,
+    "merchantName": "EZ Putt Putt #503815",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 1458.56
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 3483.97,
+    "transactionDateTime": "2016-07-28T18:24:20",
+    "transactionAmount": 0,
+    "merchantName": "AMC #145832",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 1516.03
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 3483.97,
+    "transactionDateTime": "2016-07-29T02:12:20",
+    "transactionAmount": 14.33,
+    "merchantName": "EZ Putt Putt #755869",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 1516.03
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 3469.64,
+    "transactionDateTime": "2016-07-29T03:43:29",
+    "transactionAmount": 161.93,
+    "merchantName": "AMC #79863",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 1530.36
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 3307.71,
+    "transactionDateTime": "2016-07-29T13:05:59",
+    "transactionAmount": 304.26,
+    "merchantName": "Regal Cinemas #729464",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 1692.29
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 3003.45,
+    "transactionDateTime": "2016-07-29T16:20:59",
+    "transactionAmount": 18.74,
+    "merchantName": "EZ Putt Putt #69446",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 1996.55
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 2984.71,
+    "transactionDateTime": "2016-07-30T01:27:04",
+    "transactionAmount": 429.98,
+    "merchantName": "AMC #552863",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 2015.29
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 2554.73,
+    "transactionDateTime": "2016-07-30T06:30:46",
+    "transactionAmount": 49.11,
+    "merchantName": "AMC #552863",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 2445.27
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 2505.62,
+    "transactionDateTime": "2016-07-30T12:17:56",
+    "transactionAmount": 170.02,
+    "merchantName": "AMC #145832",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 2494.38
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 2335.6,
+    "transactionDateTime": "2016-07-30T20:35:00",
+    "transactionAmount": 72.59,
+    "merchantName": "AMC #74121",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 2664.4
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 2263.01,
+    "transactionDateTime": "2016-07-31T00:11:17",
+    "transactionAmount": 357.59,
+    "merchantName": "AMC #79863",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 2736.99
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 1905.42,
+    "transactionDateTime": "2016-07-31T05:47:10",
+    "transactionAmount": 4.08,
+    "merchantName": "EZ Putt Putt #804489",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 3094.58
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 1901.34,
+    "transactionDateTime": "2016-07-31T16:48:36",
+    "transactionAmount": 10.84,
+    "merchantName": "AMC #191138",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 3098.66
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 1915.5,
+    "transactionDateTime": "2016-08-01T15:41:22",
+    "transactionAmount": 60.12,
+    "merchantName": "EZ Putt Putt #503815",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 3084.5
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 1855.38,
+    "transactionDateTime": "2016-08-02T05:18:14",
+    "transactionAmount": 485.65,
+    "merchantName": "Regal Cinemas #05791",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 3144.62
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 1369.73,
+    "transactionDateTime": "2016-08-03T22:46:14",
+    "transactionAmount": 314.08,
+    "merchantName": "EZ Putt Putt #40513",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 3630.27
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 1683.81,
+    "transactionDateTime": "2016-08-04T12:40:59",
+    "transactionAmount": 257.47,
+    "merchantName": "EZ Putt Putt #503815",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 3316.19
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 1426.34,
+    "transactionDateTime": "2016-08-05T07:45:33",
+    "transactionAmount": 40.14,
+    "merchantName": "AMC #128743",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 3573.66
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 1386.2,
+    "transactionDateTime": "2016-08-05T09:43:17",
+    "transactionAmount": 89.16,
+    "merchantName": "EZ Putt Putt #40513",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 3613.8
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 1297.04,
+    "transactionDateTime": "2016-08-05T12:01:52",
+    "transactionAmount": 0,
+    "merchantName": "Regal Cinemas #276341",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 3702.96
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 1297.04,
+    "transactionDateTime": "2016-08-06T00:06:18",
+    "transactionAmount": 185.78,
+    "merchantName": "EZ Putt Putt #982199",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 3702.96
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 1111.26,
+    "transactionDateTime": "2016-08-06T01:00:26",
+    "transactionAmount": 1.25,
+    "merchantName": "EZ Putt Putt #551896",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 3888.74
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 1110.01,
+    "transactionDateTime": "2016-08-07T11:33:27",
+    "transactionAmount": 48.91,
+    "merchantName": "AMC #552863",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 3889.99
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 1061.1,
+    "transactionDateTime": "2016-08-07T21:25:48",
+    "transactionAmount": 66.52,
+    "merchantName": "EZ Putt Putt #69446",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 3938.9
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 994.58,
+    "transactionDateTime": "2016-08-08T05:12:05",
+    "transactionAmount": 37.79,
+    "merchantName": "EZ Putt Putt #804489",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 4005.42
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 956.79,
+    "transactionDateTime": "2016-08-08T16:00:06",
+    "transactionAmount": 60.04,
+    "merchantName": "EZ Putt Putt #503815",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 4043.21
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 896.75,
+    "transactionDateTime": "2016-08-09T14:25:35",
+    "transactionAmount": 33.84,
+    "merchantName": "AMC #74121",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 4103.25
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 862.91,
+    "transactionDateTime": "2016-08-10T03:04:48",
+    "transactionAmount": 78.6,
+    "merchantName": "Regal Cinemas #276341",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 4137.09
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 784.31,
+    "transactionDateTime": "2016-08-10T23:29:36",
+    "transactionAmount": 61.36,
+    "merchantName": "AMC #74121",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 4215.69
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 722.95,
+    "transactionDateTime": "2016-08-11T14:41:55",
+    "transactionAmount": 7.6,
+    "merchantName": "Regal Cinemas #729464",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 4277.05
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 715.35,
+    "transactionDateTime": "2016-08-12T18:14:35",
+    "transactionAmount": 40.72,
+    "merchantName": "EZ Putt Putt #40513",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 4284.65
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 674.63,
+    "transactionDateTime": "2016-08-13T12:29:11",
+    "transactionAmount": 143.76,
+    "merchantName": "EZ Putt Putt #40513",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 4325.37
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 530.87,
+    "transactionDateTime": "2016-08-13T14:40:55",
+    "transactionAmount": 136.75,
+    "merchantName": "EZ Putt Putt #551896",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 4469.13
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 394.12,
+    "transactionDateTime": "2016-08-13T23:59:22",
+    "transactionAmount": 331.98,
+    "merchantName": "Quizno's #949567",
+    "merchantCategoryCode": "fastfood",
+    "currentBalance": 4605.88
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 1730.47,
+    "transactionDateTime": "2016-08-14T21:33:42",
+    "transactionAmount": 653.37,
+    "merchantName": "EZ Putt Putt #240241",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 3269.53
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 1077.1,
+    "transactionDateTime": "2016-08-14T21:34:22",
+    "transactionAmount": 653.37,
+    "merchantName": "EZ Putt Putt #240241",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 3922.9
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 1730.47,
+    "transactionDateTime": "2016-08-15T02:35:37",
+    "transactionAmount": 189.91,
+    "merchantName": "AMC #74121",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 3269.53
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 1540.56,
+    "transactionDateTime": "2016-08-16T15:35:23",
+    "transactionAmount": 142.1,
+    "merchantName": "AMC #145832",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 3459.44
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 1398.46,
+    "transactionDateTime": "2016-08-17T00:20:48",
+    "transactionAmount": 180.94,
+    "merchantName": "AMC #552863",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 3601.54
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 1217.52,
+    "transactionDateTime": "2016-08-17T02:26:05",
+    "transactionAmount": 118.68,
+    "merchantName": "EZ Putt Putt #982199",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 3782.48
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 1098.84,
+    "transactionDateTime": "2016-08-17T17:19:55",
+    "transactionAmount": 3.67,
+    "merchantName": "AMC #606218",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 3901.16
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 1095.17,
+    "transactionDateTime": "2016-08-17T18:58:36",
+    "transactionAmount": 34.22,
+    "merchantName": "EZ Putt Putt #982199",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 3904.83
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 1060.95,
+    "transactionDateTime": "2016-08-18T17:36:13",
+    "transactionAmount": 58.67,
+    "merchantName": "EZ Putt Putt #982199",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 3939.05
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 1002.28,
+    "transactionDateTime": "2016-08-18T17:54:52",
+    "transactionAmount": 173.26,
+    "merchantName": "AMC #79863",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 3997.72
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 829.02,
+    "transactionDateTime": "2016-08-18T22:46:48",
+    "transactionAmount": 201.35,
+    "merchantName": "AMC #128743",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 4170.98
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 627.67,
+    "transactionDateTime": "2016-08-19T02:56:41",
+    "transactionAmount": 0,
+    "merchantName": "AMC #724446",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 4372.33
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 627.67,
+    "transactionDateTime": "2016-08-21T21:27:48",
+    "transactionAmount": 527.72,
+    "merchantName": "Tim Hortons #294554",
+    "merchantCategoryCode": "fastfood",
+    "currentBalance": 4372.33
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 3927.93,
+    "transactionDateTime": "2016-08-22T20:53:33",
+    "transactionAmount": 290.55,
+    "merchantName": "Lyft",
+    "merchantCategoryCode": "rideshare",
+    "currentBalance": 1072.07
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 3637.38,
+    "transactionDateTime": "2016-08-24T08:28:32",
+    "transactionAmount": 162.12,
+    "merchantName": "EZ Putt Putt #503815",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 1362.62
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 3475.26,
+    "transactionDateTime": "2016-08-25T01:06:55",
+    "transactionAmount": 56.42,
+    "merchantName": "Wendys #39414",
+    "merchantCategoryCode": "fastfood",
+    "currentBalance": 1524.74
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 3418.84,
+    "transactionDateTime": "2016-08-26T12:36:45",
+    "transactionAmount": 136.79,
+    "merchantName": "AMC #79863",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 1581.16
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 3282.05,
+    "transactionDateTime": "2016-08-26T18:35:25",
+    "transactionAmount": 93.39,
+    "merchantName": "AMC #74121",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 1717.95
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 3188.66,
+    "transactionDateTime": "2016-08-27T01:41:39",
+    "transactionAmount": 230.22,
+    "merchantName": "Domino's Pizza #530652",
+    "merchantCategoryCode": "fastfood",
+    "currentBalance": 1811.34
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 2958.44,
+    "transactionDateTime": "2016-08-28T05:51:54",
+    "transactionAmount": 0.95,
+    "merchantName": "AMC #145832",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 2041.56
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 2957.49,
+    "transactionDateTime": "2016-08-28T10:31:13",
+    "transactionAmount": 123.63,
+    "merchantName": "EZ Putt Putt #551896",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 2042.51
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 2833.86,
+    "transactionDateTime": "2016-08-28T19:26:15",
+    "transactionAmount": 260.15,
+    "merchantName": "EZ Putt Putt #551896",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 2166.14
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 2573.71,
+    "transactionDateTime": "2016-08-29T20:05:08",
+    "transactionAmount": 1.66,
+    "merchantName": "Cinnabon #72579",
+    "merchantCategoryCode": "fastfood",
+    "currentBalance": 2426.29
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 2572.05,
+    "transactionDateTime": "2016-08-30T17:12:38",
+    "transactionAmount": 225.04,
+    "merchantName": "Subway #360346",
+    "merchantCategoryCode": "fastfood",
+    "currentBalance": 2427.95
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 2347.01,
+    "transactionDateTime": "2016-08-31T00:44:20",
+    "transactionAmount": 73.88,
+    "merchantName": "AMC #145832",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 2652.99
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 2273.13,
+    "transactionDateTime": "2016-08-31T11:13:38",
+    "transactionAmount": 92.74,
+    "merchantName": "AMC #128743",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 2726.87
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 2205.39,
+    "transactionDateTime": "2016-09-01T19:25:54",
+    "transactionAmount": 60.07,
+    "merchantName": "EZ Putt Putt #40513",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 2794.61
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 2145.32,
+    "transactionDateTime": "2016-09-03T11:59:42",
+    "transactionAmount": 5.84,
+    "merchantName": "AMC #79863",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 2854.68
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 2139.48,
+    "transactionDateTime": "2016-09-03T12:00:33",
+    "transactionAmount": 5.84,
+    "merchantName": "AMC #79863",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 2860.52
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 2133.64,
+    "transactionDateTime": "2016-09-04T03:31:28",
+    "transactionAmount": 0,
+    "merchantName": "AMC #706324",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 2866.36
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 2133.64,
+    "transactionDateTime": "2016-09-05T23:04:28",
+    "transactionAmount": 143.76,
+    "merchantName": "EZ Putt Putt #40513",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 2866.36
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 2277.4,
+    "transactionDateTime": "2016-09-07T13:22:22",
+    "transactionAmount": 67.71,
+    "merchantName": "EZ Putt Putt #69446",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 2722.6
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 2209.69,
+    "transactionDateTime": "2016-09-07T22:41:41",
+    "transactionAmount": 121.75,
+    "merchantName": "AMC #191138",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 2790.31
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 2087.94,
+    "transactionDateTime": "2016-09-08T07:59:24",
+    "transactionAmount": 79.43,
+    "merchantName": "AMC #145832",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 2912.06
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 2008.51,
+    "transactionDateTime": "2016-09-09T00:34:52",
+    "transactionAmount": 116.51,
+    "merchantName": "AMC #79863",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 2991.49
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 1892,
+    "transactionDateTime": "2016-09-10T10:19:58",
+    "transactionAmount": 136.75,
+    "merchantName": "EZ Putt Putt #551896",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 3108
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 2028.75,
+    "transactionDateTime": "2016-09-10T19:11:17",
+    "transactionAmount": 378.67,
+    "merchantName": "Popeyes #797184",
+    "merchantCategoryCode": "fastfood",
+    "currentBalance": 2971.25
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 1650.08,
+    "transactionDateTime": "2016-09-11T21:18:36",
+    "transactionAmount": 52.64,
+    "merchantName": "Regal Cinemas #729464",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 3349.92
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 1597.44,
+    "transactionDateTime": "2016-09-12T02:31:50",
+    "transactionAmount": 229.43,
+    "merchantName": "AMC #128743",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 3402.56
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 1368.01,
+    "transactionDateTime": "2016-09-12T04:03:05",
+    "transactionAmount": 20.14,
+    "merchantName": "AMC #552863",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 3631.99
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 1347.87,
+    "transactionDateTime": "2016-09-12T15:35:19",
+    "transactionAmount": 1.73,
+    "merchantName": "AMC #724446",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 3652.13
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 1346.14,
+    "transactionDateTime": "2016-09-12T16:50:00",
+    "transactionAmount": 3.78,
+    "merchantName": "AMC #128743",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 3653.86
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 1342.36,
+    "transactionDateTime": "2016-09-12T16:55:18",
+    "transactionAmount": 131.85,
+    "merchantName": "AMC #692956",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 3657.64
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 1210.51,
+    "transactionDateTime": "2016-09-13T18:55:29",
+    "transactionAmount": 82.97,
+    "merchantName": "EZ Putt Putt #69446",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 3789.49
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 1127.54,
+    "transactionDateTime": "2016-09-14T06:11:50",
+    "transactionAmount": 199.71,
+    "merchantName": "AMC #191138",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 3872.46
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 927.83,
+    "transactionDateTime": "2016-09-15T08:33:17",
+    "transactionAmount": 36.18,
+    "merchantName": "AMC #606218",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 4072.17
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 891.65,
+    "transactionDateTime": "2016-09-15T13:49:24",
+    "transactionAmount": 52.67,
+    "merchantName": "Regal Cinemas #276341",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 4108.35
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 838.98,
+    "transactionDateTime": "2016-09-16T00:46:47",
+    "transactionAmount": 135.2,
+    "merchantName": "AMC #79863",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 4161.02
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 703.78,
+    "transactionDateTime": "2016-09-16T13:26:43",
+    "transactionAmount": 129.66,
+    "merchantName": "AMC #79863",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 4296.22
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 574.12,
+    "transactionDateTime": "2016-09-17T06:11:14",
+    "transactionAmount": 179.7,
+    "merchantName": "EZ Putt Putt #40513",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 4425.88
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 394.42,
+    "transactionDateTime": "2016-09-17T08:00:50",
+    "transactionAmount": 34.62,
+    "merchantName": "Regal Cinemas #276341",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 4605.58
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 359.8,
+    "transactionDateTime": "2016-09-18T04:10:43",
+    "transactionAmount": 199.46,
+    "merchantName": "AMC #724446",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 4640.2
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 955.49,
+    "transactionDateTime": "2016-09-18T22:20:17",
+    "transactionAmount": 32.94,
+    "merchantName": "AMC #706324",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 4044.51
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 922.55,
+    "transactionDateTime": "2016-09-18T23:03:04",
+    "transactionAmount": 163.72,
+    "merchantName": "EZ Putt Putt #982199",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 4077.45
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 758.83,
+    "transactionDateTime": "2016-09-19T10:25:20",
+    "transactionAmount": 165.54,
+    "merchantName": "EZ Putt Putt #503815",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 4241.17
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 593.29,
+    "transactionDateTime": "2016-09-19T15:47:10",
+    "transactionAmount": 51.68,
+    "merchantName": "EZ Putt Putt #982199",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 4406.71
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 541.61,
+    "transactionDateTime": "2016-09-20T07:29:03",
+    "transactionAmount": 505.98,
+    "merchantName": "EZ Putt Putt #240241",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 4458.39
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 4431.62,
+    "transactionDateTime": "2016-09-21T05:49:34",
+    "transactionAmount": 12.09,
+    "merchantName": "AMC #79863",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 568.38
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 4419.53,
+    "transactionDateTime": "2016-09-21T21:15:46",
+    "transactionAmount": 84.86,
+    "merchantName": "AMC #74121",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 580.47
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 4334.67,
+    "transactionDateTime": "2016-09-22T15:53:49",
+    "transactionAmount": 188.92,
+    "merchantName": "AMC #606218",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 665.33
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 4145.75,
+    "transactionDateTime": "2016-09-24T07:42:17",
+    "transactionAmount": 169.79,
+    "merchantName": "AMC #706324",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 854.25
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 3975.96,
+    "transactionDateTime": "2016-09-24T11:09:13",
+    "transactionAmount": 86.64,
+    "merchantName": "AMC #191138",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 1024.04
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 3889.32,
+    "transactionDateTime": "2016-09-26T12:42:58",
+    "transactionAmount": 323.11,
+    "merchantName": "EZ Putt Putt #755869",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 1110.68
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 3566.21,
+    "transactionDateTime": "2016-09-26T16:23:40",
+    "transactionAmount": 428.86,
+    "merchantName": "Wendys #101984",
+    "merchantCategoryCode": "fastfood",
+    "currentBalance": 1433.79
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 3137.35,
+    "transactionDateTime": "2016-09-27T09:57:19",
+    "transactionAmount": 156.78,
+    "merchantName": "EZ Putt Putt #40513",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 1862.65
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 2980.57,
+    "transactionDateTime": "2016-09-28T16:00:29",
+    "transactionAmount": 114.87,
+    "merchantName": "EZ Putt Putt #982199",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 2019.43
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 2865.7,
+    "transactionDateTime": "2016-09-28T22:47:41",
+    "transactionAmount": 108.95,
+    "merchantName": "EZ Putt Putt #69446",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 2134.3
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 2756.75,
+    "transactionDateTime": "2016-09-29T14:24:28",
+    "transactionAmount": 114.28,
+    "merchantName": "AMC #552863",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 2243.25
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 2642.47,
+    "transactionDateTime": "2016-09-30T05:54:46",
+    "transactionAmount": 87.45,
+    "merchantName": "AMC #145832",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 2357.53
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 2555.02,
+    "transactionDateTime": "2016-09-30T06:19:03",
+    "transactionAmount": 35.43,
+    "merchantName": "AMC #724446",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 2444.98
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 2519.59,
+    "transactionDateTime": "2016-09-30T09:29:41",
+    "transactionAmount": 77.61,
+    "merchantName": "Regal Cinemas #276341",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 2480.41
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 2466.98,
+    "transactionDateTime": "2016-10-01T14:18:11",
+    "transactionAmount": 357.59,
+    "merchantName": "AMC #724446",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 2533.02
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 2109.39,
+    "transactionDateTime": "2016-10-01T18:18:47",
+    "transactionAmount": 10.6,
+    "merchantName": "Dairy Queen #699843",
+    "merchantCategoryCode": "fastfood",
+    "currentBalance": 2890.61
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 2098.79,
+    "transactionDateTime": "2016-10-02T02:20:45",
+    "transactionAmount": 120.74,
+    "merchantName": "AMC #724446",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 2901.21
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 1978.05,
+    "transactionDateTime": "2016-10-02T03:51:05",
+    "transactionAmount": 45.6,
+    "merchantName": "AMC #191138",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 3021.95
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 1932.45,
+    "transactionDateTime": "2016-10-02T11:21:55",
+    "transactionAmount": 0,
+    "merchantName": "EZ Putt Putt #503815",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 3067.55
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 1932.45,
+    "transactionDateTime": "2016-10-03T01:33:32",
+    "transactionAmount": 43.36,
+    "merchantName": "EZ Putt Putt #755869",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 3067.55
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 1889.09,
+    "transactionDateTime": "2016-10-03T08:45:53",
+    "transactionAmount": 15.33,
+    "merchantName": "AMC #706324",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 3110.91
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 1873.76,
+    "transactionDateTime": "2016-10-03T10:38:57",
+    "transactionAmount": 163.72,
+    "merchantName": "EZ Putt Putt #982199",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 3126.24
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 2037.48,
+    "transactionDateTime": "2016-10-03T18:51:45",
+    "transactionAmount": 150.7,
+    "merchantName": "AMC #706324",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 2962.52
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 1886.78,
+    "transactionDateTime": "2016-10-04T04:33:58",
+    "transactionAmount": 57.52,
+    "merchantName": "AMC #706324",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 3113.22
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 1829.26,
+    "transactionDateTime": "2016-10-05T11:56:28",
+    "transactionAmount": 273.34,
+    "merchantName": "EZ Putt Putt #69446",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 3170.74
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 1555.92,
+    "transactionDateTime": "2016-10-07T08:16:51",
+    "transactionAmount": 78.66,
+    "merchantName": "Regal Cinemas #05791",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 3444.08
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 1477.26,
+    "transactionDateTime": "2016-10-07T15:28:25",
+    "transactionAmount": 22.33,
+    "merchantName": "EZ Putt Putt #804489",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 3522.74
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 1454.93,
+    "transactionDateTime": "2016-10-07T18:51:45",
+    "transactionAmount": 304.29,
+    "merchantName": "AMC #79863",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 3545.07
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 1150.64,
+    "transactionDateTime": "2016-10-08T10:21:37",
+    "transactionAmount": 26.5,
+    "merchantName": "Starbucks #596555",
+    "merchantCategoryCode": "fastfood",
+    "currentBalance": 3849.36
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 1124.14,
+    "transactionDateTime": "2016-10-08T19:31:33",
+    "transactionAmount": 129.13,
+    "merchantName": "EZ Putt Putt #551896",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 3875.86
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 995.01,
+    "transactionDateTime": "2016-10-09T00:05:45",
+    "transactionAmount": 8.23,
+    "merchantName": "EZ Putt Putt #755869",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 4004.99
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 986.78,
+    "transactionDateTime": "2016-10-09T04:35:58",
+    "transactionAmount": 0.49,
+    "merchantName": "Regal Cinemas #05791",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 4013.22
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 986.29,
+    "transactionDateTime": "2016-10-10T01:45:35",
+    "transactionAmount": 114.03,
+    "merchantName": "EZ Putt Putt #755869",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 4013.71
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 872.26,
+    "transactionDateTime": "2016-10-10T14:20:33",
+    "transactionAmount": 186.51,
+    "merchantName": "EZ Putt Putt #551896",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 4127.74
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 685.75,
+    "transactionDateTime": "2016-10-10T16:39:22",
+    "transactionAmount": 103.57,
+    "merchantName": "Regal Cinemas #05791",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 4314.25
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 582.18,
+    "transactionDateTime": "2016-10-10T19:59:05",
+    "transactionAmount": 182.8,
+    "merchantName": "EZ Putt Putt #40513",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 4417.82
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 399.38,
+    "transactionDateTime": "2016-10-11T16:09:12",
+    "transactionAmount": 13.76,
+    "merchantName": "AMC #552863",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 4600.62
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 385.62,
+    "transactionDateTime": "2016-10-12T12:25:58",
+    "transactionAmount": 90.37,
+    "merchantName": "EZ Putt Putt #40513",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 4614.38
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 295.25,
+    "transactionDateTime": "2016-10-12T15:11:27",
+    "transactionAmount": 132.06,
+    "merchantName": "EZ Putt Putt #69446",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 4704.75
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 2878.04,
+    "transactionDateTime": "2016-10-13T20:33:36",
+    "transactionAmount": 83.47,
+    "merchantName": "EZ Putt Putt #40513",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 2121.96
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 2794.57,
+    "transactionDateTime": "2016-10-13T23:40:59",
+    "transactionAmount": 61.77,
+    "merchantName": "Regal Cinemas #276341",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 2205.43
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 2732.8,
+    "transactionDateTime": "2016-10-14T16:37:33",
+    "transactionAmount": 180.51,
+    "merchantName": "Burger King #780004",
+    "merchantCategoryCode": "fastfood",
+    "currentBalance": 2267.2
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 2552.29,
+    "transactionDateTime": "2016-10-16T06:33:25",
+    "transactionAmount": 119.75,
+    "merchantName": "Regal Cinemas #05791",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 2447.71
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 2432.54,
+    "transactionDateTime": "2016-10-16T13:58:53",
+    "transactionAmount": 439.1,
+    "merchantName": "EZ Putt Putt #69446",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 2567.46
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 1993.44,
+    "transactionDateTime": "2016-10-16T15:45:25",
+    "transactionAmount": 37.8,
+    "merchantName": "Wendys #295621",
+    "merchantCategoryCode": "fastfood",
+    "currentBalance": 3006.56
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 1955.64,
+    "transactionDateTime": "2016-10-16T17:13:37",
+    "transactionAmount": 71.53,
+    "merchantName": "EZ Putt Putt #551896",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 3044.36
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 1884.11,
+    "transactionDateTime": "2016-10-17T18:23:52",
+    "transactionAmount": 81.47,
+    "merchantName": "Hardee's #315854",
+    "merchantCategoryCode": "fastfood",
+    "currentBalance": 3115.89
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 1802.64,
+    "transactionDateTime": "2016-10-19T00:52:10",
+    "transactionAmount": 238.21,
+    "merchantName": "AMC #191138",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 3197.36
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 1564.43,
+    "transactionDateTime": "2016-10-19T04:35:12",
+    "transactionAmount": 436.56,
+    "merchantName": "AMC #692956",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 3435.57
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 1127.87,
+    "transactionDateTime": "2016-10-19T05:36:24",
+    "transactionAmount": 8.15,
+    "merchantName": "EZ Putt Putt #982199",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 3872.13
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 1119.72,
+    "transactionDateTime": "2016-10-19T13:53:46",
+    "transactionAmount": 0,
+    "merchantName": "EZ Putt Putt #503815",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 3880.28
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 1119.72,
+    "transactionDateTime": "2016-10-20T02:15:35",
+    "transactionAmount": 172.79,
+    "merchantName": "Burger King #301056",
+    "merchantCategoryCode": "fastfood",
+    "currentBalance": 3880.28
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 946.93,
+    "transactionDateTime": "2016-10-20T02:27:19",
+    "transactionAmount": 612.22,
+    "merchantName": "Popeyes #344053",
+    "merchantCategoryCode": "fastfood",
+    "currentBalance": 4053.07
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 334.71,
+    "transactionDateTime": "2016-10-21T00:49:21",
+    "transactionAmount": 301.85,
+    "merchantName": "AMC #191138",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 4665.29
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 3258.88,
+    "transactionDateTime": "2016-10-21T04:47:40",
+    "transactionAmount": 584.91,
+    "merchantName": "EZ Putt Putt #503815",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 1741.12
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 2673.97,
+    "transactionDateTime": "2016-10-21T04:49:26",
+    "transactionAmount": 584.91,
+    "merchantName": "EZ Putt Putt #503815",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 2326.03
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 3258.88,
+    "transactionDateTime": "2016-10-22T06:51:07",
+    "transactionAmount": 186.73,
+    "merchantName": "EZ Putt Putt #982199",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 1741.12
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 3072.15,
+    "transactionDateTime": "2016-10-22T17:21:38",
+    "transactionAmount": 53.34,
+    "merchantName": "AMC #692956",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 1927.85
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 3018.81,
+    "transactionDateTime": "2016-10-23T10:44:12",
+    "transactionAmount": 1.05,
+    "merchantName": "EZ Putt Putt #40513",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 1981.19
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 3017.76,
+    "transactionDateTime": "2016-10-24T08:15:19",
+    "transactionAmount": 93.42,
+    "merchantName": "AMC #79863",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 1982.24
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 2924.34,
+    "transactionDateTime": "2016-10-24T17:33:42",
+    "transactionAmount": 108.65,
+    "merchantName": "Regal Cinemas #276341",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 2075.66
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 2815.69,
+    "transactionDateTime": "2016-10-25T03:58:13",
+    "transactionAmount": 28.88,
+    "merchantName": "EZ Putt Putt #982199",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 2184.31
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 2786.81,
+    "transactionDateTime": "2016-10-25T05:34:42",
+    "transactionAmount": 58.61,
+    "merchantName": "EZ Putt Putt #804489",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 2213.19
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 2728.2,
+    "transactionDateTime": "2016-10-25T09:31:41",
+    "transactionAmount": 47.65,
+    "merchantName": "EZ Putt Putt #69446",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 2271.8
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 2680.55,
+    "transactionDateTime": "2016-10-25T23:17:49",
+    "transactionAmount": 68.65,
+    "merchantName": "EZ Putt Putt #503815",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 2319.45
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 2611.9,
+    "transactionDateTime": "2016-10-26T12:55:38",
+    "transactionAmount": 4.24,
+    "merchantName": "EZ Putt Putt #982199",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 2388.1
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 2607.66,
+    "transactionDateTime": "2016-10-27T05:05:11",
+    "transactionAmount": 172.8,
+    "merchantName": "AMC #692956",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 2392.34
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 2434.86,
+    "transactionDateTime": "2016-10-30T15:59:38",
+    "transactionAmount": 94.6,
+    "merchantName": "Arbys #364155",
+    "merchantCategoryCode": "fastfood",
+    "currentBalance": 2565.14
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 2340.26,
+    "transactionDateTime": "2016-10-31T04:35:13",
+    "transactionAmount": 117.04,
+    "merchantName": "AMC #552863",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 2659.74
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 2248.22,
+    "transactionDateTime": "2016-11-01T03:09:21",
+    "transactionAmount": 93.08,
+    "merchantName": "AMC #128743",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 2751.78
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 2155.14,
+    "transactionDateTime": "2016-11-01T10:26:26",
+    "transactionAmount": 17.35,
+    "merchantName": "Hardee's #409032",
+    "merchantCategoryCode": "fastfood",
+    "currentBalance": 2844.86
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 2137.79,
+    "transactionDateTime": "2016-11-01T16:05:30",
+    "transactionAmount": 87.41,
+    "merchantName": "EZ Putt Putt #69446",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 2862.21
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 2050.38,
+    "transactionDateTime": "2016-11-02T15:08:19",
+    "transactionAmount": 1144.22,
+    "merchantName": "Regal Cinemas #276341",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 2949.62
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 906.16,
+    "transactionDateTime": "2016-11-02T18:44:45",
+    "transactionAmount": 1.99,
+    "merchantName": "AMC #74121",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 4093.84
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 904.17,
+    "transactionDateTime": "2016-11-03T00:09:55",
+    "transactionAmount": 15.92,
+    "merchantName": "Dunkin' Donuts #83377",
+    "merchantCategoryCode": "fastfood",
+    "currentBalance": 4095.83
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 888.25,
+    "transactionDateTime": "2016-11-03T01:51:10",
+    "transactionAmount": 143.44,
+    "merchantName": "EZ Putt Putt #69446",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 4111.75
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 744.81,
+    "transactionDateTime": "2016-11-03T07:42:37",
+    "transactionAmount": 0,
+    "merchantName": "AMC #191138",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 4255.19
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 744.81,
+    "transactionDateTime": "2016-11-03T08:56:43",
+    "transactionAmount": 60.49,
+    "merchantName": "EZ Putt Putt #755869",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 4255.19
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 684.32,
+    "transactionDateTime": "2016-11-04T04:40:37",
+    "transactionAmount": 220.51,
+    "merchantName": "KFC #313640",
+    "merchantCategoryCode": "fastfood",
+    "currentBalance": 4315.68
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 463.81,
+    "transactionDateTime": "2016-11-06T00:39:15",
+    "transactionAmount": 238.21,
+    "merchantName": "AMC #191138",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 4536.19
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 702.02,
+    "transactionDateTime": "2016-11-06T12:14:56",
+    "transactionAmount": 537.42,
+    "merchantName": "Popeyes #196562",
+    "merchantCategoryCode": "fastfood",
+    "currentBalance": 4297.98
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 2205.25,
+    "transactionDateTime": "2016-11-07T11:58:32",
+    "transactionAmount": 116.96,
+    "merchantName": "EZ Putt Putt #40513",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 2794.75
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 2088.29,
+    "transactionDateTime": "2016-11-08T00:03:30",
+    "transactionAmount": 18.68,
+    "merchantName": "EZ Putt Putt #240241",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 2911.71
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 2069.61,
+    "transactionDateTime": "2016-11-08T04:05:59",
+    "transactionAmount": 238.2,
+    "merchantName": "Regal Cinemas #276341",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 2930.39
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 1831.41,
+    "transactionDateTime": "2016-11-08T04:21:21",
+    "transactionAmount": 8.79,
+    "merchantName": "Regal Cinemas #276341",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 3168.59
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 1822.62,
+    "transactionDateTime": "2016-11-08T06:41:35",
+    "transactionAmount": 56.46,
+    "merchantName": "EZ Putt Putt #503815",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 3177.38
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 1766.16,
+    "transactionDateTime": "2016-11-09T05:47:48",
+    "transactionAmount": 581.03,
+    "merchantName": "Regal Cinemas #729464",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 3233.84
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 1185.13,
+    "transactionDateTime": "2016-11-10T01:45:59",
+    "transactionAmount": 24.87,
+    "merchantName": "EZ Putt Putt #755869",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 3814.87
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 1160.26,
+    "transactionDateTime": "2016-11-10T17:44:21",
+    "transactionAmount": 43.61,
+    "merchantName": "Regal Cinemas #276341",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 3839.74
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 1116.65,
+    "transactionDateTime": "2016-11-12T19:54:00",
+    "transactionAmount": 32.37,
+    "merchantName": "AMC #552863",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 3883.35
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 1084.28,
+    "transactionDateTime": "2016-11-12T23:00:38",
+    "transactionAmount": 10.58,
+    "merchantName": "AMC #79863",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 3915.72
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 1073.7,
+    "transactionDateTime": "2016-11-13T00:21:15",
+    "transactionAmount": 117.76,
+    "merchantName": "AMC #79863",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 3926.3
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 955.94,
+    "transactionDateTime": "2016-11-14T03:55:33",
+    "transactionAmount": 25.35,
+    "merchantName": "EZ Putt Putt #755869",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 4044.06
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 930.59,
+    "transactionDateTime": "2016-11-14T14:02:24",
+    "transactionAmount": 26.5,
+    "merchantName": "EZ Putt Putt #69446",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 4069.41
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 904.09,
+    "transactionDateTime": "2016-11-14T19:59:04",
+    "transactionAmount": 186.73,
+    "merchantName": "EZ Putt Putt #982199",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 4095.91
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 1090.82,
+    "transactionDateTime": "2016-11-15T02:32:36",
+    "transactionAmount": 26.52,
+    "merchantName": "Starbucks #133985",
+    "merchantCategoryCode": "fastfood",
+    "currentBalance": 3909.18
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 1064.3,
+    "transactionDateTime": "2016-11-15T08:37:55",
+    "transactionAmount": 181.18,
+    "merchantName": "AMC #552863",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 3935.7
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 883.12,
+    "transactionDateTime": "2016-11-15T12:54:17",
+    "transactionAmount": 13.4,
+    "merchantName": "AMC #128743",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 4116.88
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 869.72,
+    "transactionDateTime": "2016-11-15T17:59:36",
+    "transactionAmount": 39.22,
+    "merchantName": "AMC #552863",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 4130.28
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 830.5,
+    "transactionDateTime": "2016-11-15T22:31:18",
+    "transactionAmount": 662.37,
+    "merchantName": "AMC #724446",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 4169.5
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 284.23,
+    "transactionDateTime": "2016-11-15T23:25:20",
+    "transactionAmount": 65,
+    "merchantName": "Regal Cinemas #276341",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 4715.77
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 2253.81,
+    "transactionDateTime": "2016-11-16T03:07:54",
+    "transactionAmount": 173.52,
+    "merchantName": "EZ Putt Putt #240241",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 2746.19
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 2080.29,
+    "transactionDateTime": "2016-11-16T10:52:05",
+    "transactionAmount": 202.55,
+    "merchantName": "AMC #706324",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 2919.71
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 1877.74,
+    "transactionDateTime": "2016-11-16T22:27:33",
+    "transactionAmount": 258.03,
+    "merchantName": "AMC #692956",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 3122.26
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 1619.71,
+    "transactionDateTime": "2016-11-18T05:17:46",
+    "transactionAmount": 290.51,
+    "merchantName": "EZ Putt Putt #982199",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 3380.29
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 1329.2,
+    "transactionDateTime": "2016-11-18T19:54:59",
+    "transactionAmount": 17.5,
+    "merchantName": "EZ Putt Putt #551896",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 3670.8
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 1311.7,
+    "transactionDateTime": "2016-11-19T01:10:21",
+    "transactionAmount": 0,
+    "merchantName": "AMC #692956",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 3688.3
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 1311.7,
+    "transactionDateTime": "2016-11-19T05:28:08",
+    "transactionAmount": 55.39,
+    "merchantName": "EZ Putt Putt #240241",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 3688.3
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 1256.31,
+    "transactionDateTime": "2016-11-19T14:42:55",
+    "transactionAmount": 16.59,
+    "merchantName": "Dunkin' Donuts #458393",
+    "merchantCategoryCode": "fastfood",
+    "currentBalance": 3743.69
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 1239.72,
+    "transactionDateTime": "2016-11-20T07:02:03",
+    "transactionAmount": 6.67,
+    "merchantName": "EZ Putt Putt #240241",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 3760.28
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 1233.05,
+    "transactionDateTime": "2016-11-20T13:53:30",
+    "transactionAmount": 234.52,
+    "merchantName": "Regal Cinemas #729464",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 3766.95
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 998.53,
+    "transactionDateTime": "2016-11-21T19:27:17",
+    "transactionAmount": 137.99,
+    "merchantName": "AMC #724446",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 4001.47
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 860.54,
+    "transactionDateTime": "2016-11-21T19:31:11",
+    "transactionAmount": 431.49,
+    "merchantName": "AMC #706324",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 4139.46
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 429.05,
+    "transactionDateTime": "2016-11-22T07:46:28",
+    "transactionAmount": 91.09,
+    "merchantName": "Regal Cinemas #05791",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 4570.95
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 337.96,
+    "transactionDateTime": "2016-11-23T03:21:22",
+    "transactionAmount": 20.71,
+    "merchantName": "EZ Putt Putt #551896",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 4662.04
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 317.25,
+    "transactionDateTime": "2016-11-23T20:04:30",
+    "transactionAmount": 259.51,
+    "merchantName": "AMC #79863",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 4682.75
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 2616.84,
+    "transactionDateTime": "2016-11-23T22:27:54",
+    "transactionAmount": 16.9,
+    "merchantName": "AMC #552863",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 2383.16
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 2599.94,
+    "transactionDateTime": "2016-11-24T13:32:47",
+    "transactionAmount": 54.41,
+    "merchantName": "AMC #606218",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 2400.06
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 2545.53,
+    "transactionDateTime": "2016-11-24T17:56:04",
+    "transactionAmount": 405.53,
+    "merchantName": "AMC #74121",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 2454.47
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 2140,
+    "transactionDateTime": "2016-11-24T20:50:30",
+    "transactionAmount": 14.28,
+    "merchantName": "AMC #606218",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 2860
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 2125.72,
+    "transactionDateTime": "2016-11-26T04:06:37",
+    "transactionAmount": 43.91,
+    "merchantName": "Lyft",
+    "merchantCategoryCode": "rideshare",
+    "currentBalance": 2874.28
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 2081.81,
+    "transactionDateTime": "2016-11-26T11:49:57",
+    "transactionAmount": 3.42,
+    "merchantName": "AMC #552863",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 2918.19
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 2078.39,
+    "transactionDateTime": "2016-11-26T14:30:42",
+    "transactionAmount": 279.06,
+    "merchantName": "Regal Cinemas #05791",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 2921.61
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 1799.33,
+    "transactionDateTime": "2016-11-27T04:45:24",
+    "transactionAmount": 6.29,
+    "merchantName": "AMC #606218",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 3200.67
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 1793.04,
+    "transactionDateTime": "2016-11-27T13:06:34",
+    "transactionAmount": 31.24,
+    "merchantName": "Regal Cinemas #276341",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 3206.96
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 1761.8,
+    "transactionDateTime": "2016-11-28T22:10:50",
+    "transactionAmount": 29.65,
+    "merchantName": "EZ Putt Putt #69446",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 3238.2
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 1732.15,
+    "transactionDateTime": "2016-11-29T03:07:20",
+    "transactionAmount": 84.71,
+    "merchantName": "AMC #692956",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 3267.85
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 1647.44,
+    "transactionDateTime": "2016-11-29T08:22:28",
+    "transactionAmount": 38.67,
+    "merchantName": "AMC #79863",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 3352.56
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 1608.77,
+    "transactionDateTime": "2016-11-30T21:47:04",
+    "transactionAmount": 97.06,
+    "merchantName": "AMC #692956",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 3391.23
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 1536.71,
+    "transactionDateTime": "2016-12-01T07:15:00",
+    "transactionAmount": 11.94,
+    "merchantName": "Regal Cinemas #729464",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 3463.29
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 1524.77,
+    "transactionDateTime": "2016-12-01T17:48:42",
+    "transactionAmount": 108.16,
+    "merchantName": "AMC #724446",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 3475.23
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 1416.61,
+    "transactionDateTime": "2016-12-01T19:48:20",
+    "transactionAmount": 263.03,
+    "merchantName": "EZ Putt Putt #240241",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 3583.39
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 1153.58,
+    "transactionDateTime": "2016-12-02T17:18:00",
+    "transactionAmount": 135.25,
+    "merchantName": "EZ Putt Putt #755869",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 3846.42
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 1018.33,
+    "transactionDateTime": "2016-12-02T18:25:58",
+    "transactionAmount": 237.5,
+    "merchantName": "AMC #74121",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 3981.67
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 780.83,
+    "transactionDateTime": "2016-12-02T21:43:38",
+    "transactionAmount": 55.28,
+    "merchantName": "EZ Putt Putt #40513",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 4219.17
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 725.55,
+    "transactionDateTime": "2016-12-03T00:29:44",
+    "transactionAmount": 1.84,
+    "merchantName": "AMC #552863",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 4274.45
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 723.71,
+    "transactionDateTime": "2016-12-04T06:14:57",
+    "transactionAmount": 185.67,
+    "merchantName": "EZ Putt Putt #40513",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 4276.29
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 538.04,
+    "transactionDateTime": "2016-12-04T17:20:53",
+    "transactionAmount": 40.37,
+    "merchantName": "EZ Putt Putt #755869",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 4461.96
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 497.67,
+    "transactionDateTime": "2016-12-05T00:31:25",
+    "transactionAmount": 17.33,
+    "merchantName": "AMC #724446",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 4502.33
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 480.34,
+    "transactionDateTime": "2016-12-06T21:10:10",
+    "transactionAmount": 165.45,
+    "merchantName": "EZ Putt Putt #40513",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 4519.66
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 314.89,
+    "transactionDateTime": "2016-12-07T08:02:22",
+    "transactionAmount": 37.51,
+    "merchantName": "AMC #724446",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 4685.11
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 277.38,
+    "transactionDateTime": "2016-12-10T16:58:35",
+    "transactionAmount": 209.13,
+    "merchantName": "AMC #724446",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 4722.62
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 2512.84,
+    "transactionDateTime": "2016-12-10T18:47:55",
+    "transactionAmount": 21.63,
+    "merchantName": "EZ Putt Putt #240241",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 2487.16
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 2491.21,
+    "transactionDateTime": "2016-12-12T03:02:17",
+    "transactionAmount": 52.14,
+    "merchantName": "AMC #606218",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 2508.79
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 2439.07,
+    "transactionDateTime": "2016-12-12T17:29:08",
+    "transactionAmount": 303.32,
+    "merchantName": "Regal Cinemas #05791",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 2560.93
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 2135.75,
+    "transactionDateTime": "2016-12-13T13:14:05",
+    "transactionAmount": 3.05,
+    "merchantName": "EZ Putt Putt #804489",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 2864.25
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 2132.7,
+    "transactionDateTime": "2016-12-13T23:00:52",
+    "transactionAmount": 642.67,
+    "merchantName": "AMC #692956",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 2867.3
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 1490.03,
+    "transactionDateTime": "2016-12-16T01:02:38",
+    "transactionAmount": 42.2,
+    "merchantName": "EZ Putt Putt #982199",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 3509.97
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 1447.83,
+    "transactionDateTime": "2016-12-17T01:57:22",
+    "transactionAmount": 0,
+    "merchantName": "AMC #692956",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 3552.17
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 1447.83,
+    "transactionDateTime": "2016-12-18T15:10:44",
+    "transactionAmount": 169.95,
+    "merchantName": "EZ Putt Putt #982199",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 3552.17
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 1277.88,
+    "transactionDateTime": "2016-12-19T09:38:23",
+    "transactionAmount": 93.27,
+    "merchantName": "AMC #724446",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 3722.12
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 1184.61,
+    "transactionDateTime": "2016-12-19T09:51:43",
+    "transactionAmount": 24.55,
+    "merchantName": "Krispy Kreme #653472",
+    "merchantCategoryCode": "fastfood",
+    "currentBalance": 3815.39
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 1160.06,
+    "transactionDateTime": "2016-12-19T22:02:47",
+    "transactionAmount": 12.14,
+    "merchantName": "EZ Putt Putt #40513",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 3839.94
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 1147.92,
+    "transactionDateTime": "2016-12-20T19:33:52",
+    "transactionAmount": 10.24,
+    "merchantName": "AMC #79863",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 3852.08
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 1137.68,
+    "transactionDateTime": "2016-12-21T13:59:53",
+    "transactionAmount": 58.51,
+    "merchantName": "AMC #724446",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 3862.32
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 1079.17,
+    "transactionDateTime": "2016-12-21T20:29:23",
+    "transactionAmount": 157.65,
+    "merchantName": "AMC #79863",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 3920.83
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 921.52,
+    "transactionDateTime": "2016-12-21T20:53:24",
+    "transactionAmount": 7.11,
+    "merchantName": "AMC #145832",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 4078.48
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 914.41,
+    "transactionDateTime": "2016-12-22T00:51:34",
+    "transactionAmount": 148.77,
+    "merchantName": "Regal Cinemas #05791",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 4085.59
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 765.64,
+    "transactionDateTime": "2016-12-22T06:37:35",
+    "transactionAmount": 627.51,
+    "merchantName": "EZ Putt Putt #755869",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 4234.36
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 3282.62,
+    "transactionDateTime": "2016-12-22T10:12:10",
+    "transactionAmount": 35.42,
+    "merchantName": "EZ Putt Putt #982199",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 1717.38
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 3247.2,
+    "transactionDateTime": "2016-12-22T15:30:51",
+    "transactionAmount": 31.14,
+    "merchantName": "Regal Cinemas #729464",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 1752.8
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 3216.06,
+    "transactionDateTime": "2016-12-23T00:32:55",
+    "transactionAmount": 194.51,
+    "merchantName": "EZ Putt Putt #40513",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 1783.94
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 3021.55,
+    "transactionDateTime": "2016-12-24T11:44:04",
+    "transactionAmount": 93.15,
+    "merchantName": "KFC #336186",
+    "merchantCategoryCode": "fastfood",
+    "currentBalance": 1978.45
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 2928.4,
+    "transactionDateTime": "2016-12-25T01:52:39",
+    "transactionAmount": 114.09,
+    "merchantName": "Regal Cinemas #729464",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 2071.6
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 2814.31,
+    "transactionDateTime": "2016-12-25T04:51:52",
+    "transactionAmount": 314.24,
+    "merchantName": "AMC #191138",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 2185.69
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 2500.07,
+    "transactionDateTime": "2016-12-25T10:41:48",
+    "transactionAmount": 115.41,
+    "merchantName": "AMC #79863",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 2499.93
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 2384.66,
+    "transactionDateTime": "2016-12-25T15:42:11",
+    "transactionAmount": 57.77,
+    "merchantName": "AMC #145832",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 2615.34
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 2326.89,
+    "transactionDateTime": "2016-12-26T00:44:20",
+    "transactionAmount": 175.19,
+    "merchantName": "AMC #606218",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 2673.11
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 2151.7,
+    "transactionDateTime": "2016-12-26T02:18:23",
+    "transactionAmount": 125.59,
+    "merchantName": "AMC #692956",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 2848.3
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 2026.11,
+    "transactionDateTime": "2016-12-27T07:11:57",
+    "transactionAmount": 527.27,
+    "merchantName": "Regal Cinemas #05791",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 2973.89
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 1498.84,
+    "transactionDateTime": "2016-12-27T12:57:31",
+    "transactionAmount": 61.57,
+    "merchantName": "Hardee's #794138",
+    "merchantCategoryCode": "fastfood",
+    "currentBalance": 3501.16
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 1437.27,
+    "transactionDateTime": "2016-12-29T17:21:58",
+    "transactionAmount": 11.97,
+    "merchantName": "AMC #74121",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 3562.73
+  },
+  {
+    "accountNumber": 552158878,
+    "creditLimit": 5000,
+    "availableMoney": 1425.3,
+    "transactionDateTime": "2016-12-30T02:13:17",
+    "transactionAmount": 73.46,
+    "merchantName": "EZ Putt Putt #503815",
+    "merchantCategoryCode": "entertainment",
+    "currentBalance": 3574.7
+  }
+]
