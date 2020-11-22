@@ -1,4 +1,4 @@
-import { Component, OnInit } from '@angular/core';
+import { Component, OnInit, Input } from '@angular/core';
 import { ChartOptions, ChartType } from 'chart.js';
 import { Label, SingleDataSet } from 'ng2-charts';
 
@@ -9,6 +9,7 @@ import { Label, SingleDataSet } from 'ng2-charts';
 })
 export class SalesTrafficChartComponent implements OnInit {
 
+  @Input() dashId;
   public pieChartOptions: ChartOptions = {
     responsive: true,
   };

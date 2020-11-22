@@ -1,4 +1,4 @@
-import { Component, OnInit } from '@angular/core';
+import { Component, OnInit, Input } from '@angular/core';
 import { ChartDataSets, ChartOptions, ChartType } from 'chart.js';
 import { Label } from 'ng2-charts';
 import {BankingService} from '../../banking.service'
@@ -9,6 +9,7 @@ import {BankingService} from '../../banking.service'
   styleUrls: ['./product-sales-chart.component.css']
 })
 export class ProductSalesChartComponent implements OnInit {
+  @Input() dashId;
 
   public radarChartOptions: ChartOptions = {
     responsive: true,
@@ -18,7 +19,7 @@ export class ProductSalesChartComponent implements OnInit {
 
 
   getSpending(){
-    this.bankingService.getCategoryTransactions().subscribe(
+    this.bankingService.getCategoryTransactions(this.dashId).subscribe(
       element =>{
         console.log(this.radarChartData[0].data[1], "is the datA")
           this.radarChartData[0].data[0] = element["food"]

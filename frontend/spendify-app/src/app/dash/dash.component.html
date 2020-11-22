@@ -12,22 +12,22 @@
     <mat-grid-tile
     [colspan]="( cardLayout | async )?.chart.cols" [rowspan]="( cardLayout | async )?.chart.rows">
       <app-card title="Monthly Spending">
-          <app-annual-sales-chart></app-annual-sales-chart>
+          <app-annual-sales-chart [dashId] = "1"></app-annual-sales-chart>
       </app-card>
    </mat-grid-tile>
    <mat-grid-tile [colspan]="( cardLayout | async )?.chart.cols" [rowspan]="( cardLayout | async )?.chart.rows">
       <app-card title="Spending Categories">
-          <app-product-sales-chart></app-product-sales-chart>
+          <app-product-sales-chart [dashId] = "1"></app-product-sales-chart>
       </app-card>
    </mat-grid-tile>
    <mat-grid-tile [colspan]="( cardLayout | async )?.chart.cols" [rowspan]="( cardLayout | async )?.chart.rows">
       <app-card title="Spending Habits - Essential vs Non-Essential">
-          <app-sales-traffic-chart></app-sales-traffic-chart>
+          <app-sales-traffic-chart [dashId] = "1"></app-sales-traffic-chart>
       </app-card>
    </mat-grid-tile>
    <mat-grid-tile [colspan]="( cardLayout | async )?.chart.cols" [rowspan]="( cardLayout | async )?.chart.rows">
       <app-card title="Spending Habits - Essential vs Non-Essential">
-          <app-store-sessions-chart></app-store-sessions-chart>
+          <app-store-sessions-chart [dashId] = "1"></app-store-sessions-chart>
       </app-card>
    </mat-grid-tile>
 

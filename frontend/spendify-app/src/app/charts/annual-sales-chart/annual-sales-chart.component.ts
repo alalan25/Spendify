@@ -1,4 +1,4 @@
-import { Component, OnInit } from '@angular/core';
+import { Component, OnInit, Input } from '@angular/core';
 import { ChartDataSets, ChartOptions, ChartType } from 'chart.js';
 import { Color, Label } from 'ng2-charts';
 import {BankingService} from '../../banking.service';
@@ -28,14 +28,17 @@ export class AnnualSalesChartComponent implements OnInit {
   public lineChartType: ChartType = 'line';
   public lineChartPlugins = [];
 
-
+  @Input() dashId;
 
   ngOnInit() {
     this.loadData();
+    console.log(this.dashId, "is the dash ID");
   }
+
+
   loadData(){
     this.lineChartData[0].data = [0,0,0,0,0,0,0,0,0,0,0,0]
-    this.bankingService.getMonthlyTransactions().subscribe(
+    this.bankingService.getMonthlyTransactions(this.dashId).subscribe(
       summaryData => {
         this.currentBankingInfo  = summaryData
 

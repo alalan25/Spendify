@@ -22,15 +22,15 @@ export class BankingService {
     return this.http.get(baseUrl+"/api/transactions/?id="+inputId);
   }
 
-  getAccountSummary(){
-    return this.http.get(baseUrl+"/api/account/summary/")
+  getAccountSummary(inputId:string){
+    return this.http.get(baseUrl+"/api/account/summary/?id="+inputId)
   }
-  getMonthlyTransactions(){
-    return this.http.get(baseUrl+"/api/account/year/")
+  getMonthlyTransactions(inputId:string){
+    return this.http.get(baseUrl+"/api/account/year/?id="+inputId)
   }
-  getCategoryTransactions(){
-    
-    return this.http.get(baseUrl+"/api/account/year/categories")
+  getCategoryTransactions(inputId:string){
+
+    return this.http.get(baseUrl+"/api/account/year/categories/?id="+inputId)
   }
 
 
