@@ -28,6 +28,11 @@ export class BankingService {
   getMonthlyTransactions(){
     return this.http.get(baseUrl+"/api/account/year/")
   }
+  getCategoryTransactions(){
+    
+    return this.http.get(baseUrl+"/api/account/year/categories")
+  }
+
 
 
 }

@@ -1,6 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 import { ChartDataSets, ChartOptions, ChartType } from 'chart.js';
 import { Label } from 'ng2-charts';
+import {BankingService} from '../../banking.service'
 
 @Component({
   selector: 'app-product-sales-chart',
@@ -12,17 +13,37 @@ export class ProductSalesChartComponent implements OnInit {
   public radarChartOptions: ChartOptions = {
     responsive: true,
   };
-  public radarChartLabels: Label[] = ['Eating', 'Drinking', 'Sleeping', 'Designing', 'Coding', 'Cycling', 'Running'];
+  public radarChartLabels: Label[] = ['Food', 'Health', 'Personal Care', 'Entertainment', 'Cable/Phone', 'Rideshare'];
 
-  public radarChartData: ChartDataSets[] = [
-    { data: [65, 59, 90, 81, 56, 55, 40], label: 'Series A' },
-    { data: [28, 48, 40, 19, 96, 27, 100], label: 'Series B' }
+
+
+  getSpending(){
+    this.bankingService.getCategoryTransactions().subscribe(
+      element =>{
+        console.log(this.radarChartData[0].data[1], "is the datA")
+          this.radarChartData[0].data[0] = element["food"]
+          this.radarChartData[0].data[1] = element["health"]
+          this.radarChartData[0].data[2] = element["personal care"]
+          this.radarChartData[0].data[3] = element["entertainment"]
+          this.radarChartData[0].data[4] = element["cable/phone"]
+          this.radarChartData[0].data[5] = element["reideshare"]
+
+        console.log(element["food"], "was the rfgfesponse")
+      }
+    )
+  }
+
+  public radarChartData: any[] = [
+    { data: [], label: '% Spending this Year' },
+    { data: [], label: '% Predicted next Year' }
   ];
   public radarChartType: ChartType = 'radar';
-
-  constructor() { }
+  constructor(private bankingService: BankingService) { }
 
   ngOnInit() {
+
+      console.log("calling the init")
+      this.getSpending();
   }
 
 }

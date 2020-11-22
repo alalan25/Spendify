@@ -4420,7 +4420,7 @@ def api_id():
     # Check if an ID was provided as part of the URL.
     # If ID is provided, assign it to a variable.
     # If no ID is provided, display an error in the browser.
-    print(request.args, "args")
+    
     if 'id' in request.args:
         id = int(request.args['id'])
     else:
@@ -4514,16 +4514,53 @@ def get_account_summary():
     count = 0
     for element in account_data:
         count +=1
-        print(parser.parse(element["transactionDateTime"]).month)
-        print(monthly_transactions[str(parser.parse(element["transactionDateTime"]).month)])
         monthly_transactions[str(parser.parse(element["transactionDateTime"]).month)] = monthly_transactions[str(parser.parse(element["transactionDateTime"]).month)]+element["transactionAmount"] 
 
     myDate = parser.parse(account_data[0]["transactionDateTime"])
     return (monthly_transactions)
 
+
+@app.route('/api/account/year/categories', methods=['GET'])
+def get_categorical_data():
+    print("Getting categorical data")
+    #current_date = datetime.strptime((account_data[0]["transactionDateTime"]), "%a %B %d, %Y %I:%M %p")
+    #return(parser.parse(account_data[0]["transactionDateTime"]).strftime('%m/%d/%Y').m, "is the date")
+    #return current_date
+    monthly_transactions = {
+        "rideshare":0,
+        "food":0,
+        "health":0,
+        "personal care":0,
+        "cable/phone":0,
+        "entertainment":0
+    }
+    total = 0
+    count = 0
+    for element in account_data:
+      if element["merchantCategoryCode"] in monthly_transactions:
+        total += element["transactionAmount"]
+        monthly_transactions[element['merchantCategoryCode']] += element["transactionAmount"]
+
+    output = [0,0,0,0,0,0]
+    for key, value in monthly_transactions.items():
+      monthly_transactions[key] = (monthly_transactions[key]/total)*100
+    
+    #The order is important so dont change it plz, ty uwu
+    
+    output[0] = monthly_transactions["food"]
+    output[1] = monthly_transactions["health"]
+    output[2] = monthly_transactions["personal care"]
+    output[3] = monthly_transactions["entertainment"]
+    output[4] = monthly_transactions["cable/phone"]
+    output[5] = monthly_transactions["rideshare"]
+    
+    
+
+    return monthly_transactions
+    
+
 api.add_resource(HelloWorld, "/p")
 
 if __name__ == "__main__":
     app.run(debug=True)
-    print("RUNIN")
     get_account_summary()
