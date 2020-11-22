@@ -26,10 +26,11 @@ export class BankingService {
     return this.http.get(baseUrl+"/api/account/summary/?id="+inputId)
   }
   getMonthlyTransactions(inputId:string){
+    console.log(baseUrl+"/api/account/year/?id="+inputId, "is monthly the input")
     return this.http.get(baseUrl+"/api/account/year/?id="+inputId)
   }
   getCategoryTransactions(inputId:string){
-
+    console.log(baseUrl+"/api/account/year/categories/?id="+inputId, "is the category input")
     return this.http.get(baseUrl+"/api/account/year/categories/?id="+inputId)
   }
 

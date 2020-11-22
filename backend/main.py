@@ -4520,7 +4520,7 @@ def get_account_summary():
     return (monthly_transactions)
 
 
-@app.route('/api/account/year/categories', methods=['GET'])
+@app.route('/api/account/year/categories/', methods=['GET'])
 def get_categorical_data():
     print("Getting categorical data")
     #current_date = datetime.strptime((account_data[0]["transactionDateTime"]), "%a %B %d, %Y %I:%M %p")
