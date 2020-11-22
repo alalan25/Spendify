@@ -1,0 +1,86 @@
+[
+  {
+    "Month": 1,
+    "yesCount": 0,
+    "noCount": 3,
+    "sumCount": 3,
+    "ratioCount": "0%"
+  },
+  {
+    "Month": 2,
+    "yesCount": 0,
+    "noCount": 5,
+    "sumCount": 5,
+    "ratioCount": "0%"
+  },
+  {
+    "Month": 3,
+    "yesCount": 0,
+    "noCount": 3,
+    "sumCount": 3,
+    "ratioCount": "0%"
+  },
+  {
+    "Month": 4,
+    "yesCount": 0,
+    "noCount": 7,
+    "sumCount": 7,
+    "ratioCount": "0%"
+  },
+  {
+    "Month": 5,
+    "yesCount": 0,
+    "noCount": 7,
+    "sumCount": 7,
+    "ratioCount": "0%"
+  },
+  {
+    "Month": 6,
+    "yesCount": 0,
+    "noCount": 7,
+    "sumCount": 7,
+    "ratioCount": "0%"
+  },
+  {
+    "Month": 7,
+    "yesCount": 0,
+    "noCount": 7,
+    "sumCount": 7,
+    "ratioCount": "0%"
+  },
+  {
+    "Month": 8,
+    "yesCount": 0,
+    "noCount": 8,
+    "sumCount": 8,
+    "ratioCount": "0%"
+  },
+  {
+    "Month": 9,
+    "yesCount": 0,
+    "noCount": 6,
+    "sumCount": 6,
+    "ratioCount": "0%"
+  },
+  {
+    "Month": 10,
+    "yesCount": 0,
+    "noCount": 7,
+    "sumCount": 7,
+    "ratioCount": "0%"
+  },
+  {
+    "Month": 11,
+    "yesCount": 1,
+    "noCount": 5,
+    "sumCount": 6,
+    "ratioCount": "17%"
+  },
+  {
+    "Month": 12,
+    "yesCount": 6,
+    "noCount": 0,
+    "sumCount": 6,
+    "ratioCount": "100%"
+  }
+]

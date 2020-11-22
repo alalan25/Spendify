@@ -1,0 +1,86 @@
+[
+  {
+    "Month": 1,
+    "TOTAL YES": 38,
+    "TOTAL NO": 10,
+    "TOTL": 48,
+    "RISK%": "79%"
+  },
+  {
+    "Month": 2,
+    "TOTAL YES": 41,
+    "TOTAL NO": 10,
+    "TOTL": 51,
+    "RISK%": "80%"
+  },
+  {
+    "Month": 3,
+    "TOTAL YES": 60,
+    "TOTAL NO": 0,
+    "TOTL": 60,
+    "RISK%": "100%"
+  },
+  {
+    "Month": 4,
+    "TOTAL YES": 42,
+    "TOTAL NO": 10,
+    "TOTL": 52,
+    "RISK%": "81%"
+  },
+  {
+    "Month": 5,
+    "TOTAL YES": 40,
+    "TOTAL NO": 8,
+    "TOTL": 48,
+    "RISK%": "83%"
+  },
+  {
+    "Month": 6,
+    "TOTAL YES": 52,
+    "TOTAL NO": 2,
+    "TOTL": 54,
+    "RISK%": "96%"
+  },
+  {
+    "Month": 7,
+    "TOTAL YES": 57,
+    "TOTAL NO": 1,
+    "TOTL": 58,
+    "RISK%": "98%"
+  },
+  {
+    "Month": 8,
+    "TOTAL YES": 45,
+    "TOTAL NO": 2,
+    "TOTL": 47,
+    "RISK%": "96%"
+  },
+  {
+    "Month": 9,
+    "TOTAL YES": 38,
+    "TOTAL NO": 7,
+    "TOTL": 45,
+    "RISK%": "84%"
+  },
+  {
+    "Month": 10,
+    "TOTAL YES": 55,
+    "TOTAL NO": 0,
+    "TOTL": 55,
+    "RISK%": "100%"
+  },
+  {
+    "Month": 11,
+    "TOTAL YES": 60,
+    "TOTAL NO": 0,
+    "TOTL": 60,
+    "RISK%": "100%"
+  },
+  {
+    "Month": 12,
+    "TOTAL YES": 46,
+    "TOTAL NO": 0,
+    "TOTL": 46,
+    "RISK%": "100%"
+  }
+]
