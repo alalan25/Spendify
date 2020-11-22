@@ -1,6 +1,7 @@
 import { Component, OnInit, Input } from '@angular/core';
-import { ChartOptions, ChartType } from 'chart.js';
-import { Label, SingleDataSet } from 'ng2-charts';
+import { ChartDataSets, ChartOptions, ChartType } from 'chart.js';
+import { Label } from 'ng2-charts';
+import {BankingService} from "../../banking.service";
 
 @Component({
   selector: 'app-sales-traffic-chart',
@@ -9,19 +10,42 @@ import { Label, SingleDataSet } from 'ng2-charts';
 })
 export class SalesTrafficChartComponent implements OnInit {
 
-  @Input() dashId;
-  public pieChartOptions: ChartOptions = {
+  @Input() dashId:string;
+  public barChartOptions: ChartOptions = {
     responsive: true,
   };
-  public pieChartLabels: Label[] = ['Essential', 'Non-Essential'];
-  public pieChartData: SingleDataSet = [20, 80];
-  public pieChartType: ChartType = 'pie';
-  public pieChartLegend = true;
-  public pieChartPlugins = [];
+  public barChartLabels: Label[] = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December'];
+  public barChartType: ChartType = 'bar';
+  public barChartLegend = true;
+  public barChartPlugins = [];
 
-  constructor() { }
+  public barChartData: ChartDataSets[] = [
+    { data: [], label: 'Low Scenario' },
+    { data: [], label: 'Average Scenario' },
+    { data: [], label: 'High Scenario' }
+  ];
+
+  constructor(private bankingService:BankingService) { }
+
+  getData(){
+    this.bankingService.getSegmentPrediction(this.dashId).subscribe(
+      element =>{
+        for (const [key, value] of Object.entries(element["yhat_lower"])) {
+          this.barChartData[0].data[key] = value
+        }
+
+        for (const [key, value] of Object.entries(element["yhat"])) {
+          this.barChartData[1].data[key] = value
+        }
+        for (const [key, value] of Object.entries(element["yhat_upper"])) {
+          this.barChartData[2].data[key] = value
+        }
+      }
+    )
+  }
 
   ngOnInit() {
+    this.getData();
   }
 
 }

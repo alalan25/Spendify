@@ -34,6 +34,16 @@ export class BankingService {
     return this.http.get(baseUrl+"/api/account/year/categories/?id="+inputId)
   }
 
+  getAccountPrediction(inputId:string){
 
+    return this.http.get(baseUrl+"/api/account/prediction/?id="+inputId)
+  }
+  getSegmentPrediction(inputId:string){
+
+    return this.http.get(baseUrl+"/api/account/prediction/segment/?id="+inputId)
+  }
+  getRiskPrediction(inputId:string){
+    return this.http.get(baseUrl+"/api/account/prediction/risk/?id="+inputId)
+  }
 
 }

@@ -1,6 +1,7 @@
 import { Component, OnInit, Input } from '@angular/core';
 import { ChartDataSets, ChartOptions, ChartType } from 'chart.js';
 import { Label } from 'ng2-charts';
+import {BankingService} from "../../banking.service";
 
 @Component({
   selector: 'app-store-sessions-chart',
@@ -13,19 +14,38 @@ export class StoreSessionsChartComponent implements OnInit {
   public barChartOptions: ChartOptions = {
     responsive: true,
   };
-  public barChartLabels: Label[] = ['2006', '2007', '2008', '2009', '2010', '2011', '2012'];
+  public barChartLabels: Label[] = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December'];
   public barChartType: ChartType = 'bar';
   public barChartLegend = true;
   public barChartPlugins = [];
 
   public barChartData: ChartDataSets[] = [
-    { data: [65, 59, 80, 81, 56, 55, 40], label: 'Series A' },
-    { data: [28, 48, 40, 19, 86, 27, 90], label: 'Series B' }
+    { data: [], label: 'Low Scenario' },
+    { data: [], label: 'Average Scenario' },
+    { data: [], label: 'High Scenario' }
   ];
 
-  constructor() { }
+  constructor(private bankingService:BankingService) { }
+
+  getData(){
+    this.bankingService.getAccountPrediction(this.dashId).subscribe(
+      element =>{
+        for (const [key, value] of Object.entries(element["yhat_lower"])) {
+          this.barChartData[0].data[key] = value
+        }
+
+        for (const [key, value] of Object.entries(element["yhat"])) {
+          this.barChartData[1].data[key] = value
+        }
+        for (const [key, value] of Object.entries(element["yhat_upper"])) {
+          this.barChartData[2].data[key] = value
+        }
+      }
+    )
+  }
 
   ngOnInit() {
+    this.getData();
   }
 
 }

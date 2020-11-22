@@ -1,0 +1,462 @@
+[
+  {
+    "accountNumber": 100973869,
+    "creditLimit": 1000,
+    "availableMoney": 1000,
+    "transactionDateTime": "2016-01-06T00:01:43",
+    "transactionAmount": 149.17,
+    "merchantName": "Lyft",
+    "merchantCategoryCode": "rideshare",
+    "currentBalance": 0
+  },
+  {
+    "accountNumber": 100973869,
+    "creditLimit": 1000,
+    "availableMoney": 850.83,
+    "transactionDateTime": "2016-01-17T06:10:24",
+    "transactionAmount": 2.23,
+    "merchantName": "Lyft",
+    "merchantCategoryCode": "rideshare",
+    "currentBalance": 149.17
+  },
+  {
+    "accountNumber": 100973869,
+    "creditLimit": 1000,
+    "availableMoney": 873.6,
+    "transactionDateTime": "2016-02-03T19:23:35",
+    "transactionAmount": 10.77,
+    "merchantName": "Uber",
+    "merchantCategoryCode": "rideshare",
+    "currentBalance": 126.4
+  },
+  {
+    "accountNumber": 100973869,
+    "creditLimit": 1000,
+    "availableMoney": 862.83,
+    "transactionDateTime": "2016-02-05T17:18:45",
+    "transactionAmount": 16.24,
+    "merchantName": "Uber",
+    "merchantCategoryCode": "rideshare",
+    "currentBalance": 137.17
+  },
+  {
+    "accountNumber": 100973869,
+    "creditLimit": 1000,
+    "availableMoney": 846.59,
+    "transactionDateTime": "2016-02-06T03:03:02",
+    "transactionAmount": 28.56,
+    "merchantName": "Uber",
+    "merchantCategoryCode": "rideshare",
+    "currentBalance": 153.41
+  },
+  {
+    "accountNumber": 100973869,
+    "creditLimit": 1000,
+    "availableMoney": 818.03,
+    "transactionDateTime": "2016-02-16T20:22:13",
+    "transactionAmount": 0.67,
+    "merchantName": "Lyft",
+    "merchantCategoryCode": "rideshare",
+    "currentBalance": 181.97
+  },
+  {
+    "accountNumber": 100973869,
+    "creditLimit": 1000,
+    "availableMoney": 817.36,
+    "transactionDateTime": "2016-02-18T16:54:46",
+    "transactionAmount": 83.51,
+    "merchantName": "Lyft",
+    "merchantCategoryCode": "rideshare",
+    "currentBalance": 182.64
+  },
+  {
+    "accountNumber": 100973869,
+    "creditLimit": 1000,
+    "availableMoney": 733.85,
+    "transactionDateTime": "2016-02-25T12:40:37",
+    "transactionAmount": 75.6,
+    "merchantName": "Uber",
+    "merchantCategoryCode": "rideshare",
+    "currentBalance": 266.15
+  },
+  {
+    "accountNumber": 100973869,
+    "creditLimit": 1000,
+    "availableMoney": 658.25,
+    "transactionDateTime": "2016-02-25T19:01:38",
+    "transactionAmount": 124.63,
+    "merchantName": "Uber",
+    "merchantCategoryCode": "rideshare",
+    "currentBalance": 341.75
+  },
+  {
+    "accountNumber": 100973869,
+    "creditLimit": 1000,
+    "availableMoney": 533.62,
+    "transactionDateTime": "2016-02-29T15:42:21",
+    "transactionAmount": 124.63,
+    "merchantName": "Uber",
+    "merchantCategoryCode": "rideshare",
+    "currentBalance": 466.38
+  },
+  {
+    "accountNumber": 100973869,
+    "creditLimit": 1000,
+    "availableMoney": 658.25,
+    "transactionDateTime": "2016-02-29T22:59:43",
+    "transactionAmount": 34.87,
+    "merchantName": "Uber",
+    "merchantCategoryCode": "rideshare",
+    "currentBalance": 341.75
+  },
+  {
+    "accountNumber": 100973869,
+    "creditLimit": 1000,
+    "availableMoney": 648.38,
+    "transactionDateTime": "2016-03-01T17:04:52",
+    "transactionAmount": 184.23,
+    "merchantName": "Uber",
+    "merchantCategoryCode": "rideshare",
+    "currentBalance": 351.62
+  },
+  {
+    "accountNumber": 100973869,
+    "creditLimit": 1000,
+    "availableMoney": 464.15,
+    "transactionDateTime": "2016-03-25T20:06:10",
+    "transactionAmount": 314.78,
+    "merchantName": "Uber",
+    "merchantCategoryCode": "rideshare",
+    "currentBalance": 535.85
+  },
+  {
+    "accountNumber": 100973869,
+    "creditLimit": 1000,
+    "availableMoney": 174.37,
+    "transactionDateTime": "2016-05-05T13:43:34",
+    "transactionAmount": 44.73,
+    "merchantName": "Lyft",
+    "merchantCategoryCode": "rideshare",
+    "currentBalance": 825.63
+  },
+  {
+    "accountNumber": 100973869,
+    "creditLimit": 1000,
+    "availableMoney": 129.64,
+    "transactionDateTime": "2016-05-08T12:37:31",
+    "transactionAmount": 100.53,
+    "merchantName": "Lyft",
+    "merchantCategoryCode": "rideshare",
+    "currentBalance": 870.36
+  },
+  {
+    "accountNumber": 100973869,
+    "creditLimit": 1000,
+    "availableMoney": 501.7,
+    "transactionDateTime": "2016-05-18T10:03:39",
+    "transactionAmount": 65.28,
+    "merchantName": "Lyft",
+    "merchantCategoryCode": "rideshare",
+    "currentBalance": 498.3
+  },
+  {
+    "accountNumber": 100973869,
+    "creditLimit": 1000,
+    "availableMoney": 436.42,
+    "transactionDateTime": "2016-05-19T06:28:09",
+    "transactionAmount": 59.18,
+    "merchantName": "Lyft",
+    "merchantCategoryCode": "rideshare",
+    "currentBalance": 563.58
+  },
+  {
+    "accountNumber": 100973869,
+    "creditLimit": 1000,
+    "availableMoney": 377.24,
+    "transactionDateTime": "2016-05-22T14:23:02",
+    "transactionAmount": 3.31,
+    "merchantName": "Lyft",
+    "merchantCategoryCode": "rideshare",
+    "currentBalance": 622.76
+  },
+  {
+    "accountNumber": 100973869,
+    "creditLimit": 1000,
+    "availableMoney": 373.93,
+    "transactionDateTime": "2016-05-22T15:20:45",
+    "transactionAmount": 226.15,
+    "merchantName": "Dinosaur Sandwitch Bar #08794",
+    "merchantCategoryCode": "food",
+    "currentBalance": 626.07
+  },
+  {
+    "accountNumber": 100973869,
+    "creditLimit": 1000,
+    "availableMoney": 147.78,
+    "transactionDateTime": "2016-05-23T06:42:20",
+    "transactionAmount": 308.82,
+    "merchantName": "Lyft",
+    "merchantCategoryCode": "rideshare",
+    "currentBalance": 852.22
+  },
+  {
+    "accountNumber": 100973869,
+    "creditLimit": 1000,
+    "availableMoney": 69.54,
+    "transactionDateTime": "2016-05-27T07:04:42",
+    "transactionAmount": 415.51,
+    "merchantName": "Subway #685273",
+    "merchantCategoryCode": "fastfood",
+    "currentBalance": 930.46
+  },
+  {
+    "accountNumber": 100973869,
+    "creditLimit": 1000,
+    "availableMoney": -160.82,
+    "transactionDateTime": "2016-06-15T20:00:38",
+    "transactionAmount": 38.07,
+    "merchantName": "Lyft",
+    "merchantCategoryCode": "rideshare",
+    "currentBalance": 1160.82
+  },
+  {
+    "accountNumber": 100973869,
+    "creditLimit": 1000,
+    "availableMoney": 256.76,
+    "transactionDateTime": "2016-07-16T17:34:39",
+    "transactionAmount": 0,
+    "merchantName": "Lyft",
+    "merchantCategoryCode": "rideshare",
+    "currentBalance": 743.24
+  },
+  {
+    "accountNumber": 100973869,
+    "creditLimit": 1000,
+    "availableMoney": 256.76,
+    "transactionDateTime": "2016-07-16T17:37:23",
+    "transactionAmount": 0,
+    "merchantName": "Lyft",
+    "merchantCategoryCode": "rideshare",
+    "currentBalance": 743.24
+  },
+  {
+    "accountNumber": 100973869,
+    "creditLimit": 1000,
+    "availableMoney": 281.76,
+    "transactionDateTime": "2016-08-14T01:20:53",
+    "transactionAmount": 185.51,
+    "merchantName": "Lyft",
+    "merchantCategoryCode": "rideshare",
+    "currentBalance": 718.24
+  },
+  {
+    "accountNumber": 100973869,
+    "creditLimit": 1000,
+    "availableMoney": 96.25,
+    "transactionDateTime": "2016-08-18T19:46:54",
+    "transactionAmount": 0,
+    "merchantName": "Lyft",
+    "merchantCategoryCode": "rideshare",
+    "currentBalance": 903.75
+  },
+  {
+    "accountNumber": 100973869,
+    "creditLimit": 1000,
+    "availableMoney": 96.25,
+    "transactionDateTime": "2016-08-18T19:48:23",
+    "transactionAmount": 0,
+    "merchantName": "Lyft",
+    "merchantCategoryCode": "rideshare",
+    "currentBalance": 903.75
+  },
+  {
+    "accountNumber": 100973869,
+    "creditLimit": 1000,
+    "availableMoney": 96.25,
+    "transactionDateTime": "2016-08-25T18:08:07",
+    "transactionAmount": 325.37,
+    "merchantName": "Lyft",
+    "merchantCategoryCode": "rideshare",
+    "currentBalance": 903.75
+  },
+  {
+    "accountNumber": 100973869,
+    "creditLimit": 1000,
+    "availableMoney": 65.9,
+    "transactionDateTime": "2016-09-08T23:50:15",
+    "transactionAmount": 108.13,
+    "merchantName": "Uber",
+    "merchantCategoryCode": "rideshare",
+    "currentBalance": 934.1
+  },
+  {
+    "accountNumber": 100973869,
+    "creditLimit": 1000,
+    "availableMoney": 1000,
+    "transactionDateTime": "2016-09-15T05:04:12",
+    "transactionAmount": 8.92,
+    "merchantName": "Lyft",
+    "merchantCategoryCode": "rideshare",
+    "currentBalance": 0
+  },
+  {
+    "accountNumber": 100973869,
+    "creditLimit": 1000,
+    "availableMoney": 991.08,
+    "transactionDateTime": "2016-09-16T03:05:09",
+    "transactionAmount": 419.1,
+    "merchantName": "Lyft",
+    "merchantCategoryCode": "rideshare",
+    "currentBalance": 8.92
+  },
+  {
+    "accountNumber": 100973869,
+    "creditLimit": 1000,
+    "availableMoney": 596.98,
+    "transactionDateTime": "2016-10-04T11:27:02",
+    "transactionAmount": 145.11,
+    "merchantName": "Lyft",
+    "merchantCategoryCode": "rideshare",
+    "currentBalance": 403.02
+  },
+  {
+    "accountNumber": 100973869,
+    "creditLimit": 1000,
+    "availableMoney": 451.87,
+    "transactionDateTime": "2016-10-10T12:03:58",
+    "transactionAmount": 68.62,
+    "merchantName": "Lyft",
+    "merchantCategoryCode": "rideshare",
+    "currentBalance": 548.13
+  },
+  {
+    "accountNumber": 100973869,
+    "creditLimit": 1000,
+    "availableMoney": 383.25,
+    "transactionDateTime": "2016-10-15T16:58:39",
+    "transactionAmount": 87.19,
+    "merchantName": "Uber",
+    "merchantCategoryCode": "rideshare",
+    "currentBalance": 616.75
+  },
+  {
+    "accountNumber": 100973869,
+    "creditLimit": 1000,
+    "availableMoney": 296.06,
+    "transactionDateTime": "2016-10-17T14:09:57",
+    "transactionAmount": 447.87,
+    "merchantName": "Uber",
+    "merchantCategoryCode": "rideshare",
+    "currentBalance": 703.94
+  },
+  {
+    "accountNumber": 100973869,
+    "creditLimit": 1000,
+    "availableMoney": 158.76,
+    "transactionDateTime": "2016-10-18T10:30:03",
+    "transactionAmount": 19.93,
+    "merchantName": "Uber",
+    "merchantCategoryCode": "rideshare",
+    "currentBalance": 841.24
+  },
+  {
+    "accountNumber": 100973869,
+    "creditLimit": 1000,
+    "availableMoney": 138.83,
+    "transactionDateTime": "2016-10-21T12:28:26",
+    "transactionAmount": 27.03,
+    "merchantName": "Uber",
+    "merchantCategoryCode": "rideshare",
+    "currentBalance": 861.17
+  },
+  {
+    "accountNumber": 100973869,
+    "creditLimit": 1000,
+    "availableMoney": 136.8,
+    "transactionDateTime": "2016-11-02T23:34:58",
+    "transactionAmount": 221.69,
+    "merchantName": "Uber",
+    "merchantCategoryCode": "rideshare",
+    "currentBalance": 863.2
+  },
+  {
+    "accountNumber": 100973869,
+    "creditLimit": 1000,
+    "availableMoney": 819.46,
+    "transactionDateTime": "2016-11-06T01:23:34",
+    "transactionAmount": 360.87,
+    "merchantName": "Uber",
+    "merchantCategoryCode": "rideshare",
+    "currentBalance": 180.54
+  },
+  {
+    "accountNumber": 100973869,
+    "creditLimit": 1000,
+    "availableMoney": 458.59,
+    "transactionDateTime": "2016-11-14T05:55:03",
+    "transactionAmount": 658.94,
+    "merchantName": "Lyft",
+    "merchantCategoryCode": "rideshare",
+    "currentBalance": 541.41
+  },
+  {
+    "accountNumber": 100973869,
+    "creditLimit": 1000,
+    "availableMoney": 266.75,
+    "transactionDateTime": "2016-11-15T04:21:07",
+    "transactionAmount": 31.12,
+    "merchantName": "Lyft",
+    "merchantCategoryCode": "rideshare",
+    "currentBalance": 733.25
+  },
+  {
+    "accountNumber": 100973869,
+    "creditLimit": 1000,
+    "availableMoney": 235.63,
+    "transactionDateTime": "2016-11-18T05:06:37",
+    "transactionAmount": 230.19,
+    "merchantName": "Lyft",
+    "merchantCategoryCode": "rideshare",
+    "currentBalance": 764.37
+  },
+  {
+    "accountNumber": 100973869,
+    "creditLimit": 1000,
+    "availableMoney": 980.44,
+    "transactionDateTime": "2016-12-08T01:11:48",
+    "transactionAmount": 400.65,
+    "merchantName": "Lyft",
+    "merchantCategoryCode": "rideshare",
+    "currentBalance": 19.56
+  },
+  {
+    "accountNumber": 100973869,
+    "creditLimit": 1000,
+    "availableMoney": 579.79,
+    "transactionDateTime": "2016-12-13T15:02:36",
+    "transactionAmount": 93.83,
+    "merchantName": "Uber",
+    "merchantCategoryCode": "rideshare",
+    "currentBalance": 420.21
+  },
+  {
+    "accountNumber": 100973869,
+    "creditLimit": 1000,
+    "availableMoney": 485.96,
+    "transactionDateTime": "2016-12-14T07:53:55",
+    "transactionAmount": 189.48,
+    "merchantName": "Lyft",
+    "merchantCategoryCode": "rideshare",
+    "currentBalance": 514.04
+  },
+  {
+    "accountNumber": 100973869,
+    "creditLimit": 1000,
+    "availableMoney": 296.48,
+    "transactionDateTime": "2016-12-22T09:28:25",
+    "transactionAmount": 304.25,
+    "merchantName": "Uber",
+    "merchantCategoryCode": "rideshare",
+    "currentBalance": 703.52
+  }
+]
